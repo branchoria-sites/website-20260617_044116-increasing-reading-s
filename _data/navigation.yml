@@ -1,0 +1,831 @@
+sidebar_generated:
+- title: Faster Reading
+  title_full: Increasing
+  url: /increasing/
+  children:
+  - title: Benchmarks
+    title_full: How Fast Do Adults Really Read?
+    url: /benchmarks/
+    children:
+    - title: 500 WPM
+      title_full: Can You Really Read 500 WPM?
+      url: /500-wpm/
+      children:
+      - title: Dense texts
+        title_full: Why Dense Texts Break Speed Reading Claims
+        url: /dense-texts-7bc7ad/
+      - title: Main idea
+        title_full: Why 500 WPM Feels Clearer Than It Is
+        url: /main-idea-fae110/
+      - title: Useful skims
+        title_full: When Fast Skimming Is the Right Tool
+        url: /useful-skims/
+    - title: Fiction vs Fact
+      title_full: Why Fiction Often Feels Faster to Read
+      url: /fiction-vs-fact/
+      children:
+      - title: Careful Reading
+        title_full: When Slower Reading Is the Smarter Choice
+        url: /careful-reading/
+      - title: Long Words
+        title_full: Why Long Words Make Reading Feel Slower
+        url: /long-words/
+      - title: Rereading
+        title_full: Why Non Fiction Sends Your Eyes Back
+        url: /rereading-754bc9/
+    - title: Self Test
+      title_full: A Better Way to Test Your Reading Speed
+      url: /self-test/
+      children:
+      - title: Passage length
+        title_full: How long should a reading speed test be?
+        url: /passage-length/
+      - title: Progress tracking
+        title_full: Is your reading speed actually improving?
+        url: /progress-tracking/
+      - title: Question checks
+        title_full: Can your quiz spot fake fast reading?
+        url: /question-checks/
+    - title: Slow Reading
+      title_full: When Slow Reading Is a Problem
+      url: /slow-reading/
+      children:
+      - title: Checks
+        title_full: The better test than reading speed
+        url: /checks/
+      - title: Easy Texts
+        title_full: Why do easy texts still feel hard?
+        url: /easy-texts/
+      - title: Rereading
+        title_full: Is rereading helping or holding you back?
+        url: /rereading-5e25d9/
+    - title: WPM Ranges
+      title_full: What Counts as a Normal Reading Speed?
+      url: /wpm-ranges/
+      children:
+      - title: Fiction vs Nonfiction
+        title_full: Why Do Novels Feel Faster Than Reports?
+        url: /fiction-vs-nonfiction/
+      - title: Reading Aloud
+        title_full: How Much Slower Is Reading Out Loud?
+        url: /reading-aloud/
+      - title: Scanning vs Reading
+        title_full: Are You Reading Fast or Just Scanning?
+        url: /scanning-vs-reading/
+  - title: Dense Texts
+    title_full: Why Hard Texts Need Slower Reading
+    url: /dense-texts/
+    children:
+    - title: Expertise
+      title_full: Why Experts Read Dense Text Faster
+      url: /expertise/
+      children:
+      - title: Methods drag
+        title_full: Why Methods Sections Feel So Slow
+        url: /methods-drag/
+      - title: Previewing
+        title_full: The Preview That Makes Reading Faster
+        url: /previewing/
+      - title: Schemas
+        title_full: How Knowledge Shrinks a Hard Text
+        url: /schemas-ee374c/
+    - title: Legalese
+      title_full: Why Legalese Slows Even Lawyers Down
+      url: /legalese/
+      children:
+      - title: Embedded Clauses
+        title_full: Why One Legal Sentence Can Overload Memory
+        url: /embedded-clauses/
+      - title: Plain Contracts
+        title_full: Do Plain Language Contracts Work Just as Well?
+        url: /plain-contracts/
+      - title: Slow Read Sections
+        title_full: Which Parts of a Contract Should You Never Skim?
+        url: /slow-read-sections/
+    - title: Paper Preview
+      title_full: Read Papers Faster by Previewing First
+      url: /paper-preview/
+      children:
+      - title: Figures First
+        title_full: Can figures tell you what a paper proves?
+        url: /figures-first/
+      - title: Less Rereading
+        title_full: Why starting cold makes papers feel slower
+        url: /less-rereading/
+      - title: Preview Routine
+        title_full: A five minute map before close reading
+        url: /preview-routine/
+    - title: Rereading
+      title_full: Why Rereading Is Not Wasted Time
+      url: /rereading-5be46e/
+      children:
+      - title: Contradictions
+        title_full: When confusion is a sign to look back
+        url: /contradictions/
+      - title: Layered passes
+        title_full: A smarter way to reread hard pages
+        url: /layered-passes/
+      - title: Sentence repair
+        title_full: Why one backward glance can save a sentence
+        url: /sentence-repair/
+    - title: Skimming Risk
+      title_full: When Skimming Stops Being Safe
+      url: /skimming-risk/
+      children:
+      - title: Costly Words
+        title_full: The Tiny Words Skimmers Miss Most
+        url: /costly-words/
+      - title: Risky Texts
+        title_full: Which Documents Are Too Risky to Skim?
+        url: /risky-texts-2c51a2/
+      - title: Safe Workflow
+        title_full: How to Skim First Without Missing the Point
+        url: /safe-workflow/
+  - title: Inner Voice
+    title_full: Should You Silence Your Inner Voice?
+    url: /inner-voice/
+    children:
+    - title: Phrase voice
+      title_full: Can you read phrases instead of words?
+      url: /phrase-voice/
+      children:
+      - title: Failure Cases
+        title_full: When phrase reading is too fast
+        url: /failure-cases/
+      - title: Memory Load
+        title_full: Why chunks feel easier than word chains
+        url: /memory-load/
+      - title: Slash Phrases
+        title_full: Can slash marks teach faster phrase reading?
+        url: /slash-phrases/
+    - title: Self checks
+      title_full: Did faster reading actually leave meaning behind?
+      url: /self-checks/
+      children:
+      - title: Claim recall
+        title_full: Can You Name the Paragraph's Main Point?
+        url: /claim-recall/
+      - title: Evidence recall
+        title_full: Did You Keep the Evidence or Just Keywords?
+        url: /evidence-recall/
+      - title: Structure check
+        title_full: Can Structure Tell You When to Slow Down?
+        url: /structure-check/
+    - title: Sound coding
+      title_full: The inner voice is not just pronunciation
+      url: /sound-coding/
+      children:
+      - title: Hard Text
+        title_full: When Inner Speech Is Worth Slowing Down
+        url: /hard-text/
+      - title: Sound Cues
+        title_full: Can Sound Cues Speed Word Recognition?
+        url: /sound-cues/
+      - title: Suppression
+        title_full: What Happens When Inner Speech Is Blocked?
+        url: /suppression/
+    - title: Suppression risk
+      title_full: When silencing the inner voice backfires
+      url: /suppression-risk/
+      children:
+      - title: Negation Words
+        title_full: Why Tiny Words Can Break Fast Reading
+        url: /negation-words/
+      - title: Shallow Fluency
+        title_full: When Fast Reading Only Feels Fluent
+        url: /shallow-fluency/
+      - title: Technical Prose
+        title_full: When Technical Text Needs the Inner Voice
+        url: /technical-prose/
+    - title: Voice settings
+      title_full: How much inner voice does this text need?
+      url: /voice-settings/
+      children:
+      - title: Legal wording
+        title_full: When one clause is worth slowing down for
+        url: /legal-wording/
+      - title: New concepts
+        title_full: Why new ideas slow the inner voice
+        url: /new-concepts/
+      - title: Poetry rhythm
+        title_full: Why poems need a voice in your head
+        url: /poetry-rhythm/
+  - title: Knowledge
+    title_full: Why Familiar Topics Feel Faster to Read
+    url: /knowledge/
+    children:
+    - title: Baseball Study
+      title_full: What the Baseball Study Really Shows
+      url: /baseball-study/
+      children:
+      - title: Before reading
+        title_full: How to Prepare Your Brain Before Reading
+        url: /before-reading/
+      - title: Knowledge boost
+        title_full: Why Knowing Baseball Changed the Reading Result
+        url: /knowledge-boost/
+      - title: Study limits
+        title_full: What the Baseball Study Did Not Prove
+        url: /study-limits/
+    - title: Domain Predic
+      title_full: How Topic Knowledge Speeds Prediction
+      url: /domain-predic/
+      children:
+      - title: Eye Tracking
+        title_full: What eye movements reveal about prior knowledge
+        url: /eye-tracking/
+      - title: Previewing
+        title_full: Can a quick preview make reading faster?
+        url: /previewing-01a7f4/
+      - title: Schemas
+        title_full: Why familiar topics feel easier to read
+        url: /schemas/
+    - title: Easy Trap
+      title_full: When Familiar Topics Make You Too Fast
+      url: /easy-trap/
+      children:
+      - title: False Fluency
+        title_full: When Familiar Words Fake Understanding
+        url: /false-fluency-0b9931/
+      - title: Missed Caveats
+        title_full: The Small Words Fast Readers Miss
+        url: /missed-caveats/
+      - title: Slowdown Triggers
+        title_full: When Easy Reading Should Slow Down
+        url: /slowdown-triggers/
+    - title: Known Words
+      title_full: Why Familiar Words Read Faster
+      url: /known-words/
+      children:
+      - title: Exposure
+        title_full: How Words Become Fast to Read
+        url: /exposure/
+      - title: Rare Words
+        title_full: Why One Hard Word Can Stop Reading
+        url: /rare-words/
+      - title: Word Depth
+        title_full: Why Knowing a Word Is Not Enough
+        url: /word-depth/
+    - title: Reading Clusters
+      title_full: Read in Clusters to Get Faster
+      url: /reading-clusters/
+      children:
+      - title: First Overview
+        title_full: Why the first text in a cluster matters
+        url: /first-overview/
+      - title: Repeated Terms
+        title_full: How repeated terms unlock faster reading
+        url: /repeated-terms/
+      - title: Why random hard reading stays slow
+        url: /why-random-hard-reading-stays-slow/
+  - title: Measure
+    title_full: The Reading Speed Test That Actually Helps
+    url: /measure/
+    children:
+    - title: Inference
+      title_full: Did faster reading preserve the logic?
+      url: /inference/
+      children:
+      - title: Inference Threshold
+        title_full: Where Does Faster Reading Start Hurting Inference?
+        url: /inference-threshold/
+      - title: Summaries vs Inference
+        title_full: Can a Good Summary Hide Weak Inference Skills?
+        url: /summaries-vs-inference/
+      - title: Why Questions
+        title_full: Why Questions Often Fail First at Higher Speeds
+        url: /why-questions/
+    - title: One Sentence
+      title_full: Can one sentence expose false speed gains?
+      url: /one-sentence/
+      children:
+      - title: False gains
+        title_full: When faster reading only looks like progress
+        url: /false-gains/
+      - title: Main idea
+        title_full: Did your summary catch the real point?
+        url: /main-idea/
+      - title: Scoring
+        title_full: How should you score a one sentence summary?
+        url: /scoring/
+    - title: Retell Limits
+      title_full: When retelling helps and when it misleads
+      url: /retell-limits/
+      children:
+      - title: False Fluency
+        title_full: When a good retell hides weak understanding
+        url: /false-fluency/
+      - title: Inference Checks
+        title_full: The questions that expose shallow fast reading
+        url: /inference-checks/
+      - title: Nonfiction Retells
+        title_full: Why nonfiction is harder to retell well
+        url: /nonfiction-retells/
+    - title: Text Profiles
+      title_full: Why one reading speed number is misleading
+      url: /text-profiles/
+      children:
+      - title: Familiarity bias
+        title_full: Is familiarity flattering your reading speed?
+        url: /familiarity-bias/
+      - title: Four profiles
+        title_full: The four records every reader should keep
+        url: /four-profiles/
+      - title: Technical texts
+        title_full: Why technical reading should stay slower
+        url: /technical-texts/
+    - title: Unseen Texts
+      title_full: Why rereading can fake reading progress
+      url: /unseen-texts/
+      children:
+      - title: Comprehension Checks
+        title_full: The Checks That Keep Speed Honest
+        url: /comprehension-checks/
+      - title: Familiarity Bias
+        title_full: Why Rereading Makes Progress Look Bigger
+        url: /familiarity-bias-8f5872/
+      - title: Passage Banks
+        title_full: How to Build a Fair Passage Bank
+        url: /passage-banks/
+  - title: Myths
+    title_full: Why Speed Reading Promises Fall Apart
+    url: /myths/
+    children:
+    - title: Inner voice
+      title_full: Should You Really Silence Your Inner Voice?
+      url: /inner-voice-5b1ca6/
+      children:
+      - title: Complex Sentences
+        title_full: Why Hard Sentences Need an Inner Voice
+        url: /complex-sentences/
+      - title: Skim or Study
+        title_full: When to Skim and When to Hear Words
+        url: /skim-or-study/
+      - title: Suppression Risk
+        title_full: The Hidden Cost of Silencing Words
+        url: /suppression-risk-859595/
+    - title: Lookbacks
+      title_full: Why Looking Back Can Make Reading Better
+      url: /lookbacks/
+      children:
+      - title: Ambiguity
+        title_full: Why Confusing Sentences Make Eyes Look Back
+        url: /ambiguity-c06624/
+      - title: Dense Texts
+        title_full: Why Hard Texts Punish No Lookback Reading
+        url: /dense-texts-39ce2c/
+      - title: Useful Rereading
+        title_full: When Rereading Is Actually Worth It
+        url: /useful-rereading/
+    - title: RSVP apps
+      title_full: Why Word Flashing Apps Feel Faster Than They Are
+      url: /rsvp-apps/
+      children:
+      - title: Best Uses
+        title_full: When RSVP Actually Makes Sense
+        url: /best-uses-546c0c/
+      - title: Rereading
+        title_full: Why Word Flashing Makes Backtracking So Hard
+        url: /rereading-465232/
+      - title: Speed Claims
+        title_full: Does RSVP Speed Feel Faster Than It Is?
+        url: /speed-claims/
+    - title: Skim risks
+      title_full: When Skimming Misses What Matters Most
+      url: /skim-risks/
+      children:
+      - title: Abstracts
+        title_full: Why Abstracts Are Not Enough
+        url: /abstracts/
+      - title: Exceptions
+        title_full: The Contract Words Skimmers Miss Most
+        url: /exceptions/
+      - title: Slow Down
+        title_full: When Fast Reading Becomes Too Risky
+        url: /slow-down/
+    - title: Visual span
+      title_full: Can Your Eyes Really Read Whole Lines?
+      url: /visual-span/
+      children:
+      - title: Peripheral Vision
+        title_full: Why Your Peripheral Vision Misses Words
+        url: /peripheral-vision/
+      - title: Preview Limits
+        title_full: Why Preview Is Not Reading Ahead
+        url: /preview-limits/
+      - title: Window Tests
+        title_full: The Experiment That Shrinks Speed Reading Claims
+        url: /window-tests/
+  - title: Phrases
+    title_full: Read Phrases, Not Just Words
+    url: /phrases/
+    children:
+    - title: Cued Text
+      title_full: Do slash marks really improve reading fluency?
+      url: /cued-text/
+      children:
+      - title: Fade Cues
+        title_full: When Should Phrase Cues Disappear?
+        url: /fade-cues/
+      - title: Modelled Reading
+        title_full: Why Slashes Need a Fluent Voice
+        url: /modelled-reading/
+      - title: Not Speed Reading
+        title_full: Do Slash Marks Really Make Reading Faster?
+        url: /not-speed-reading/
+    - title: Inner Rhythm
+      title_full: Why silent reading still has rhythm
+      url: /inner-rhythm/
+      children:
+      - title: Faster rhythm
+        title_full: Make the inner rhythm lighter, not absent
+        url: /faster-rhythm/
+      - title: Inner voice risk
+        title_full: Should you really silence the inner voice?
+        url: /inner-voice-risk/
+      - title: Parsing rhythm
+        title_full: How rhythm makes long sentences easier
+        url: /parsing-rhythm/
+    - title: Not Hype
+      title_full: Phrase reading is not magic speed reading
+      url: /not-hype/
+      children:
+      - title: Check meaning
+        title_full: How fast is too fast to understand?
+        url: /check-meaning/
+      - title: Grouping vs skimming
+        title_full: Are you grouping words or just skimming?
+        url: /grouping-vs-skimming/
+      - title: Perceptual span
+        title_full: Why your eyes cannot read whole pages
+        url: /perceptual-span/
+    - title: Phrase Breaks
+      title_full: Where should a sentence naturally pause?
+      url: /phrase-breaks/
+      children:
+      - title: Choppy Pauses
+        title_full: Why too many pauses slow reading down
+        url: /choppy-pauses/
+      - title: Find Breaks
+        title_full: Where should a sentence naturally pause?
+        url: /find-breaks/
+      - title: Phrase Cues
+        title_full: Can marked phrases make reading smoother?
+        url: /phrase-cues/
+    - title: Word Groups
+      title_full: The word groups that make sentences click
+      url: /word-groups/
+      children:
+      - title: Contrast Signals
+        title_full: The small words that reverse a sentence
+        url: /contrast-signals/
+      - title: Noun Phrases
+        title_full: Why subject groups stop sentence confusion
+        url: /noun-phrases/
+      - title: Verb Phrases
+        title_full: How verb groups reveal the real action
+        url: /verb-phrases/
+  - title: Practice
+    title_full: Can Rereading Make You Faster?
+    url: /practice/
+    children:
+    - title: Adult practice
+      title_full: Can adults use repeated reading well?
+      url: /adult-practice/
+      children:
+      - title: Fluency check
+        title_full: Is slow reading a fluency problem?
+        url: /fluency-check/
+      - title: Guided practice
+        title_full: Why rereading works better with feedback
+        url: /guided-practice/
+      - title: Work texts
+        title_full: Which work documents are worth rereading?
+        url: /work-texts/
+    - title: Models
+      title_full: Why rereading needs a fluent model
+      url: /models/
+      children:
+      - title: Audio Support
+        title_full: Can Recordings Stand In for a Fluent Reader?
+        url: /audio-support/
+      - title: Corrections
+        title_full: When Faster Rereading Rehearses the Wrong Words
+        url: /corrections/
+      - title: Fluent Models
+        title_full: Why Hearing Fluent Reading Changes Rereading
+        url: /fluent-models/
+    - title: Passage fit
+      title_full: How hard should a rereading passage be?
+      url: /passage-fit/
+      children:
+      - title: Accuracy fit
+        title_full: How accurate should the first reading be?
+        url: /accuracy-fit/
+      - title: Passage length
+        title_full: Why short passages build smoother reading
+        url: /passage-length-0559bd/
+      - title: Poor fit signs
+        title_full: When rereading turns into repeated struggling
+        url: /poor-fit-signs/
+    - title: Timing
+      title_full: When timed rereading helps and hurts
+      url: /timing/
+      children:
+      - title: Checks
+        title_full: The simple check that keeps speed honest
+        url: /checks-a25b83/
+      - title: Guessing
+        title_full: When faster rereading is really guessing
+        url: /guessing/
+      - title: WCPM
+        title_full: The fluency number that catches false speed
+        url: /wcpm/
+    - title: Transfer
+      title_full: Does rereading make all reading faster?
+      url: /transfer/
+      children:
+      - title: Gain shrinkage
+        title_full: Why Rereading Gains Do Not Fully Travel
+        url: /gain-shrinkage/
+      - title: Transfer tests
+        title_full: How To Test Whether Fluency Really Transfers
+        url: /transfer-tests/
+      - title: Wide reading
+        title_full: When Wide Reading Should Replace More Rereading
+        url: /wide-reading/
+  - title: Purpose
+    title_full: When Should You Slow Down or Skim?
+    url: /purpose/
+    children:
+    - title: Contracts
+      title_full: Why the dullest clauses may matter most
+      url: /contracts/
+      children:
+      - title: Auto renewals
+        title_full: When a contract renews before you notice
+        url: /auto-renewals/
+      - title: Definitions
+        title_full: The small definitions that change the whole deal
+        url: /definitions/
+      - title: Liability caps
+        title_full: What happens when the promise breaks
+        url: /liability-caps/
+    - title: Email triage
+      title_full: Which emails deserve a slower read?
+      url: /email-triage/
+      children:
+      - title: Hidden Actions
+        title_full: Where email commitments hide in plain sight
+        url: /hidden-actions/
+      - title: Slow Reads
+        title_full: Which emails are too risky to skim?
+        url: /slow-reads/
+      - title: Tone Risk
+        title_full: Why blunt emails slow good readers down
+        url: /tone-risk/
+    - title: Medicine leaflets
+      title_full: The leaflet sections you should not skim
+      url: /medicine-leaflets/
+      children:
+      - title: Interactions
+        title_full: Which Interaction Warnings Deserve Your Full Attention?
+        url: /interactions/
+      - title: Missed Doses
+        title_full: Why One Missed Dose Can Mean Different Things
+        url: /missed-doses/
+      - title: Urgent Effects
+        title_full: Which Side Effects Mean You Should Act Now?
+        url: /urgent-effects/
+    - title: Reports
+      title_full: How to find the parts of a report that matter
+      url: /reports/
+      children:
+      - title: Caveats
+        title_full: The Small Caveat That Changes the Report
+        url: /caveats/
+      - title: Key charts
+        title_full: Which Charts Actually Change the Decision?
+        url: /key-charts/
+      - title: Summaries
+        title_full: Can the Executive Summary Carry the Decision?
+        url: /summaries/
+    - title: Tech docs
+      title_full: Stop reading documentation like a novel
+      url: /tech-docs/
+      children:
+      - title: Concept Documentation
+        title_full: How Fast Should You Read Concept Docs?
+        url: /concept-documentation/
+      - title: Reference Lookup
+        title_full: Stop Reading Reference Pages Front to Back
+        url: /reference-lookup/
+      - title: Task Accuracy
+        title_full: Why Skimming Instructions Goes Wrong
+        url: /task-accuracy/
+  - title: Reading Apps
+    title_full: Do Word Flashing Apps Really Work?
+    url: /reading-apps/
+    children:
+    - title: App Tradeoffs
+      title_full: Are Spritz Style Apps Worth Using?
+      url: /app-tradeoffs/
+      children:
+      - title: Small Screens
+        title_full: When one word reading fits tiny screens
+        url: /small-screens/
+      - title: Speed Illusion
+        title_full: Why RSVP feels faster than it understands
+        url: /speed-illusion/
+      - title: Word Highlight
+        title_full: Does the highlighted letter really help?
+        url: /word-highlight/
+    - title: Best Uses
+      title_full: When One Word Reading Actually Helps
+      url: /best-uses/
+      children:
+      - title: ADHD Focus
+        title_full: Could RSVP Help Some Readers Stay Focused Longer?
+        url: /adhd-focus/
+      - title: Content Triage
+        title_full: Can RSVP Help You Clear Information Overload Faster?
+        url: /content-triage/
+      - title: Small Screens
+        title_full: Why RSVP Fits Tiny Screens Better Than Pages
+        url: /small-screens-49d0a6/
+    - title: Fixed Pacing
+      title_full: Why Fast Word Flashing Can Outrun Meaning
+      url: /fixed-pacing/
+      children:
+      - title: Going Back
+        title_full: Why Readers Need To Look Back
+        url: /going-back/
+      - title: Hard Words
+        title_full: Why Hard Words Need Reading Time
+        url: /hard-words/
+      - title: Speed Tradeoff
+        title_full: When Faster Words Mean Less Understanding
+        url: /speed-tradeoff/
+    - title: Preview Loss
+      title_full: What Readers Lose Without Word Preview
+      url: /preview-loss/
+      children:
+      - title: Difficult text
+        title_full: Why hard passages expose RSVP limits
+        url: /difficult-text/
+      - title: Eye tradeoff
+        title_full: The hidden cost of stopping eye movements
+        url: /eye-tradeoff/
+      - title: Harder words
+        title_full: Why every flashed word starts colder
+        url: /harder-words/
+    - title: Rereading
+      title_full: Why Glancing Back Is Not Cheating
+      url: /rereading-d239d8/
+      children:
+      - title: Ambiguity
+        title_full: When one unclear word needs a second look
+        url: /ambiguity/
+      - title: Dense texts
+        title_full: Why hard texts punish forced forward reading
+        url: /dense-texts-812416/
+      - title: Rewind limits
+        title_full: Why rewind buttons do not fix RSVP
+        url: /rewind-limits/
+  - title: Rereading
+    title_full: When Looking Back Helps Reading
+    url: /rereading/
+    children:
+    - title: Checking Loop
+      title_full: When Rereading Becomes a Checking Habit
+      url: /checking-loop/
+      children:
+      - title: Delay Check
+        title_full: The Paragraph Test for Breaking Rereading Loops
+        url: /delay-check/
+      - title: False Clarity
+        title_full: Why Rereading Can Create False Clarity
+        url: /false-clarity/
+      - title: Warning Signs
+        title_full: Are You Rereading for Understanding or Reassurance?
+        url: /warning-signs/
+    - title: Lost Focus
+      title_full: How Much Should You Reread After Zoning Out?
+      url: /lost-focus/
+      children:
+      - title: Full Restart
+        title_full: When is starting over justified?
+        url: /full-restart/
+      - title: Last Clear Point
+        title_full: Where did your focus actually break?
+        url: /last-clear-point/
+      - title: Short Lookbacks
+        title_full: How much should you reread?
+        url: /short-lookbacks/
+    - title: Normal Glances
+      title_full: Are Backward Eye Movements Actually Bad?
+      url: /normal-glances/
+      children:
+      - title: Garden Paths
+        title_full: Why Some Sentences Trick You Into Rereading
+        url: /garden-paths/
+      - title: Hard Vocabulary
+        title_full: Why Unfamiliar Words Make Your Eyes Go Back
+        url: /hard-vocabulary/
+      - title: Useful Lookbacks
+        title_full: Are Your Reading Lookbacks Helping or Hurting?
+        url: /useful-lookbacks/
+    - title: Slow First
+      title_full: Why Slower Reading Can Finish Faster
+      url: /slow-first/
+      children:
+      - title: Dense Texts
+        title_full: Where Slowing Down Saves the Most Time
+        url: /dense-texts-18e4ea/
+      - title: Lookback Cues
+        title_full: When Lookbacks Tell You to Slow Down
+        url: /lookback-cues/
+      - title: Memory Load
+        title_full: When Fast Reading Creates Rereading Loops
+        url: /memory-load-aff7c7/
+    - title: Worth It
+      title_full: Should You Look Back or Keep Reading?
+      url: /worth-it/
+      children:
+      - title: Numbers Rules
+        title_full: Why Numbers and Exceptions Deserve a Second Look
+        url: /numbers-rules/
+      - title: Pronoun Confusion
+        title_full: When a Pronoun Is Worth Looking Back For
+        url: /pronoun-confusion/
+      - title: Specific Check
+        title_full: Do You Know What You Need to Check?
+        url: /specific-check/
+  - title: Skimming
+    title_full: How to Skim Without Fooling Yourself
+    url: /skimming/
+    children:
+    - title: Risky texts
+      title_full: When skimming stops being honest
+      url: /risky-texts/
+      children:
+      - title: Contracts
+        title_full: Why contracts punish quick skimming
+        url: /contracts-ba1e17/
+      - title: Medicine labels
+        title_full: The small print that keeps medicine safe
+        url: /medicine-labels/
+      - title: Qualifier words
+        title_full: Tiny words that change everything
+        url: /qualifier-words/
+    - title: Set purpose
+      title_full: What should a skim prove before you start?
+      url: /set-purpose/
+      children:
+      - title: False Understanding
+        title_full: Do You Understand It or Just Recognize It?
+        url: /false-understanding/
+      - title: Find Evidence
+        title_full: Where Should You Look When Evidence Matters Most?
+        url: /find-evidence/
+      - title: Skim Questions
+        title_full: Which Question Makes a Skim Actually Useful?
+        url: /skim-questions/
+    - title: Signal words
+      title_full: The small words that stop bad skimming
+      url: /signal-words/
+      children:
+      - title: Contrast words
+        title_full: The small word that flips the argument
+        url: /contrast-words/
+      - title: Evidence limits
+        title_full: When a study is not strong proof
+        url: /evidence-limits/
+      - title: Hedges
+        title_full: Why may is not a throwaway word
+        url: /hedges/
+    - title: Text map
+      title_full: Can headings reveal the argument fast enough?
+      url: /text-map/
+      children:
+      - title: Heading Map
+        title_full: Can Headings Really Map the Argument?
+        url: /heading-map/
+      - title: Skim Outline
+        title_full: Build a Fast Outline Before Reading Closely
+        url: /skim-outline/
+      - title: Why Topic Sentences Can Mislead Skimmers
+        url: /why-topic-sentences-can-mislead-skimmers/
+    - title: Three passes
+      title_full: A safer way to skim difficult nonfiction
+      url: /three-passes/
+      children:
+      - title: Argument Markers
+        title_full: Which Words Reveal the Real Argument Fast?
+        url: /argument-markers/
+      - title: Need Third Pass
+        title_full: Does This Document Really Need a Third Pass?
+        url: /need-third-pass/
+      - title: Reading Limits
+        title_full: What Caveats Tell You About Trusting a Claim
+        url: /reading-limits/

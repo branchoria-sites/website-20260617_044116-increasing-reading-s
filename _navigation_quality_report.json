@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-17T03:35:39.598265Z",
+  "summary": {
+    "total_pages_with_permalink": 326,
+    "visible_pages": 253,
+    "hidden_pages": 73,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1905,
+    "inline_internal_target_page_count": 253,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 253,
+    "average_inline_inbound_links_per_visible_page": 7.53,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "increasing_re_852ca6",
+        "title": "Increasing",
+        "permalink": "/increasing/",
+        "inline_inbound_count": 115
+      },
+      {
+        "basename": "increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_technical_acc_63ced4",
+        "title": "Technical texts",
+        "permalink": "/technical-texts/",
+        "inline_inbound_count": 103
+      },
+      {
+        "basename": "increasing_re_852ca6_vocabulary_ba_236244",
+        "title": "Knowledge",
+        "permalink": "/knowledge/",
+        "inline_inbound_count": 87
+      },
+      {
+        "basename": "increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_eye_movement_5e51f1",
+        "title": "Eye tradeoff",
+        "permalink": "/eye-tradeoff/",
+        "inline_inbound_count": 85
+      },
+      {
+        "basename": "increasing_re_852ca6_speed_reading_71e807",
+        "title": "Myths",
+        "permalink": "/myths/",
+        "inline_inbound_count": 85
+      },
+      {
+        "basename": "increasing_re_852ca6_repeated_read_e09228",
+        "title": "Practice",
+        "permalink": "/practice/",
+        "inline_inbound_count": 68
+      },
+      {
+        "basename": "increasing_re_852ca6_purpose_based_25e5d2",
+        "title": "Purpose",
+        "permalink": "/purpose/",
+        "inline_inbound_count": 65
+      },
+      {
+        "basename": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "title": "Skimming",
+        "permalink": "/skimming/",
+        "inline_inbound_count": 61
+      },
+      {
+        "basename": "increasing_re_852ca6_phrase_readin_eba9de",
+        "title": "Phrases",
+        "permalink": "/phrases/",
+        "inline_inbound_count": 58
+      },
+      {
+        "basename": "increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_eye_tracking_a6d293",
+        "title": "Eye Tracking",
+        "permalink": "/eye-tracking/",
+        "inline_inbound_count": 53
+      },
+      {
+        "basename": "increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a",
+        "title": "Expertise",
+        "permalink": "/expertise/",
+        "inline_inbound_count": 52
+      },
+      {
+        "basename": "increasing_re_852ca6_speed_reading_71e807_regressions_r_724139",
+        "title": "Lookbacks",
+        "permalink": "/lookbacks/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f",
+        "title": "Exceptions",
+        "permalink": "/exceptions/",
+        "inline_inbound_count": 40
+      },
+      {
+        "basename": "increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_definitions_e_bf03fb",
+        "title": "Definitions",
+        "permalink": "/definitions/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_when_to_slow_c12ffc",
+        "title": "Slow Down",
+        "permalink": "/slow-down/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b",
+        "title": "Reports",
+        "permalink": "/reports/",
+        "inline_inbound_count": 36
+      },
+      {
+        "basename": "increasing_re_852ca6_measure_readi_fdb760",
+        "title": "Measure",
+        "permalink": "/measure/",
+        "inline_inbound_count": 35
+      },
+      {
+        "basename": "increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_limitation_st_3548ce",
+        "title": "Reading Limits",
+        "permalink": "/reading-limits/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60",
+        "title": "Timing",
+        "permalink": "/timing/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671_careful_readi_bf6303",
+        "title": "Careful Reading",
+        "permalink": "/careful-reading/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_scanning_vs_f_7ce4e9",
+        "title": "Scanning vs Reading",
+        "permalink": "/scanning-vs-reading/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431",
+        "title": "Exposure",
+        "permalink": "/exposure/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15",
+        "title": "Warning Signs",
+        "permalink": "/warning-signs/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea",
+        "title": "One Sentence",
+        "permalink": "/one-sentence/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_prior_knowled_88cf5b",
+        "title": "Before reading",
+        "permalink": "/before-reading/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c",
+        "title": "Slow Reading",
+        "permalink": "/slow-reading/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786",
+        "title": "Reading Aloud",
+        "permalink": "/reading-aloud/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "increasing_re_852ca6_repeated_read_e09228_fluent_model_375466",
+        "title": "Models",
+        "permalink": "/models/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_correction_st_cd7fd6",
+        "title": "Corrections",
+        "permalink": "/corrections/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05",
+        "title": "Difficult text",
+        "permalink": "/difficult-text/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d",
+        "title": "Transfer",
+        "permalink": "/transfer/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2_short_passage_635207",
+        "title": "Passage length",
+        "permalink": "/passage-length-0559bd/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_guessing_fals_3b7413",
+        "title": "Guessing",
+        "permalink": "/guessing/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "increasing_re_852ca6_rsvp_reading_26badc",
+        "title": "Reading Apps",
+        "permalink": "/reading-apps/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_report_caveat_244f60",
+        "title": "Caveats",
+        "permalink": "/caveats/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af",
+        "title": "Embedded Clauses",
+        "permalink": "/embedded-clauses/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04",
+        "title": "Three passes",
+        "permalink": "/three-passes/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d",
+        "title": "Cued Text",
+        "permalink": "/cued-text/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "increasing_re_852ca6_reading_speed_ac88ef",
+        "title": "Benchmarks",
+        "permalink": "/benchmarks/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_peripheral_vi_f35dd9",
+        "title": "Peripheral Vision",
+        "permalink": "/peripheral-vision/",
+        "inline_inbound_count": 9
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rsvp_reading_26badc",
+        "to": "increasing_re_852ca6",
+        "type": "ancestor"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e_research_pape_68b038",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_dense_materia_3cc00e",
+        "to": "increasing_re_852ca6",
+        "type": "ancestor"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "to": "increasing_re_852ca6",
+        "type": "ancestor"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88_phonology_vs_9be1b0",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_inner_voice_r_589d88",
+        "to": "increasing_re_852ca6",
+        "type": "ancestor"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_measure_readi_fdb760_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_measure_readi_fdb760_inference_que_937286",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_measure_readi_fdb760",
+        "to": "increasing_re_852ca6",
+        "type": "ancestor"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_phrase_readin_eba9de",
+        "to": "increasing_re_852ca6",
+        "type": "ancestor"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_purpose_based_25e5d2",
+        "to": "increasing_re_852ca6",
+        "type": "ancestor"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_reading_speed_ac88ef",
+        "to": "increasing_re_852ca6",
+        "type": "ancestor"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_rereading_reg_828352",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_repeated_read_e09228_fluent_model_375466",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_repeated_read_e09228_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_repeated_read_e09228",
+        "to": "increasing_re_852ca6",
+        "type": "ancestor"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6",
+        "type": "parent"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_dense_materia_3cc00e",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_honest_skimmi_aabcf8",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_inner_voice_r_589d88",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_measure_readi_fdb760",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_phrase_readin_eba9de",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_purpose_based_25e5d2",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_reading_speed_ac88ef",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_repeated_read_e09228",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_rsvp_reading_26badc",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_speed_reading_71e807",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_vocabulary_ba_236244",
+        "type": "sibling"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_rereading_reg_828352_index",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e",
+        "type": "child"
+      },
+      {
+        "from": "increasing_re_852ca6_rereading_reg_828352",
+        "to": "increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695",
+        "type": "child"
+      }
+    ]
+  }
+}

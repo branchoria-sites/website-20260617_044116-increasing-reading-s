@@ -1,0 +1,3991 @@
+{
+  "version": 1,
+  "page_count": 253,
+  "total_page_seconds": 51642.5087,
+  "average_page_seconds": 204.1206,
+  "phase_totals_seconds": {
+    "preparation": 50207.1983,
+    "monetization": 730.2979,
+    "youtube": 421.9865,
+    "media_svg": 167.0798,
+    "content_assembly": 107.8972,
+    "quality_write": 8.0494
+  },
+  "slowest_pages": [
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11_medication_wa_62aa6d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 397.9859,
+      "phases": {
+        "preparation": 386.9925,
+        "media_svg": 0.6648,
+        "youtube": 5.4038,
+        "content_assembly": 0.4896,
+        "monetization": 4.3913,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28_phrase_cued_r_3e9b1b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 350.2179,
+      "phases": {
+        "preparation": 336.2438,
+        "media_svg": 0.7203,
+        "youtube": 7.5672,
+        "content_assembly": 0.4645,
+        "monetization": 5.1849,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45_drug_interact_ba01a1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 320.9429,
+      "phases": {
+        "preparation": 315.176,
+        "media_svg": 0.7075,
+        "youtube": 2.9689,
+        "content_assembly": 0.4644,
+        "monetization": 1.5862,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 309.1934,
+      "phases": {
+        "preparation": 307.5868,
+        "media_svg": 0.0692,
+        "youtube": 0.0131,
+        "content_assembly": 0.4571,
+        "monetization": 1.0285,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 308.9052,
+      "phases": {
+        "preparation": 306.1729,
+        "media_svg": 0.1011,
+        "youtube": 0.5144,
+        "content_assembly": 0.4993,
+        "monetization": 1.5834,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_liability_cap_93a921",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 308.8099,
+      "phases": {
+        "preparation": 305.8058,
+        "media_svg": 0.6463,
+        "youtube": 0.5358,
+        "content_assembly": 0.47,
+        "monetization": 1.3149,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28_finding_phras_d877e9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 298.9392,
+      "phases": {
+        "preparation": 291.0811,
+        "media_svg": 0.6539,
+        "youtube": 5.3907,
+        "content_assembly": 0.4422,
+        "monetization": 1.3309,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 293.9613,
+      "phases": {
+        "preparation": 292.2793,
+        "media_svg": 0.0695,
+        "youtube": 0.0202,
+        "content_assembly": 0.4723,
+        "monetization": 1.0824,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 291.2256,
+      "phases": {
+        "preparation": 290.5567,
+        "media_svg": 0.0652,
+        "youtube": 0.0142,
+        "content_assembly": 0.4576,
+        "monetization": 0.093,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 290.5664,
+      "phases": {
+        "preparation": 287.0903,
+        "media_svg": 0.701,
+        "youtube": 0.0116,
+        "content_assembly": 0.4193,
+        "monetization": 2.3104,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28_over_segmenta_a13829",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 274.0878,
+      "phases": {
+        "preparation": 265.9814,
+        "media_svg": 0.7117,
+        "youtube": 5.6979,
+        "content_assembly": 0.4477,
+        "monetization": 1.2133,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 271.4818,
+      "phases": {
+        "preparation": 260.2152,
+        "media_svg": 0.7235,
+        "youtube": 0.01,
+        "content_assembly": 0.4283,
+        "monetization": 10.0678,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_prior_knowled_88cf5b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 269.3091,
+      "phases": {
+        "preparation": 267.5305,
+        "media_svg": 0.6958,
+        "youtube": 0.5358,
+        "content_assembly": 0.4501,
+        "monetization": 0.0613,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45_urgent_side_e_ddcced",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 267.427,
+      "phases": {
+        "preparation": 262.742,
+        "media_svg": 0.7041,
+        "youtube": 0.5772,
+        "content_assembly": 0.4472,
+        "monetization": 2.9201,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11_contract_skim_73495c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 261.4428,
+      "phases": {
+        "preparation": 255.6988,
+        "media_svg": 0.7449,
+        "youtube": 0.5701,
+        "content_assembly": 0.4516,
+        "monetization": 3.941,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_high_cost_wor_adbb2e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 260.1113,
+      "phases": {
+        "preparation": 255.5773,
+        "media_svg": 0.7049,
+        "youtube": 3.3089,
+        "content_assembly": 0.4161,
+        "monetization": 0.0778,
+        "quality_write": 0.0263
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 257.0462,
+      "phases": {
+        "preparation": 255.2559,
+        "media_svg": 0.7258,
+        "youtube": 0.5394,
+        "content_assembly": 0.4334,
+        "monetization": 0.0592,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_schemas_easy_3cb6d1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 256.8392,
+      "phases": {
+        "preparation": 244.6562,
+        "media_svg": 0.7003,
+        "youtube": 8.607,
+        "content_assembly": 0.4491,
+        "monetization": 2.3927,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_headings_pred_b1443b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 256.5223,
+      "phases": {
+        "preparation": 248.9986,
+        "media_svg": 0.6922,
+        "youtube": 3.0099,
+        "content_assembly": 0.4319,
+        "monetization": 3.3569,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 255.5395,
+      "phases": {
+        "preparation": 247.1938,
+        "media_svg": 0.703,
+        "youtube": 0.0128,
+        "content_assembly": 0.4147,
+        "monetization": 7.178,
+        "quality_write": 0.0372
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 239.2588,
+      "phases": {
+        "preparation": 236.3384,
+        "media_svg": 0.141,
+        "youtube": 0.544,
+        "content_assembly": 0.4362,
+        "monetization": 1.7627,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 308.9052,
+      "phases": {
+        "preparation": 306.1729,
+        "media_svg": 0.1011,
+        "youtube": 0.5144,
+        "content_assembly": 0.4993,
+        "monetization": 1.5834,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 293.9613,
+      "phases": {
+        "preparation": 292.2793,
+        "media_svg": 0.0695,
+        "youtube": 0.0202,
+        "content_assembly": 0.4723,
+        "monetization": 1.0824,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 239.2885,
+      "phases": {
+        "preparation": 237.735,
+        "media_svg": 0.0631,
+        "youtube": 0.0139,
+        "content_assembly": 0.4346,
+        "monetization": 1.0088,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 212.6812,
+      "phases": {
+        "preparation": 212.0256,
+        "media_svg": 0.1075,
+        "youtube": 0.0129,
+        "content_assembly": 0.4407,
+        "monetization": 0.061,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 291.2256,
+      "phases": {
+        "preparation": 290.5567,
+        "media_svg": 0.0652,
+        "youtube": 0.0142,
+        "content_assembly": 0.4576,
+        "monetization": 0.093,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 309.1934,
+      "phases": {
+        "preparation": 307.5868,
+        "media_svg": 0.0692,
+        "youtube": 0.0131,
+        "content_assembly": 0.4571,
+        "monetization": 1.0285,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 252.1308,
+      "phases": {
+        "preparation": 251.4817,
+        "media_svg": 0.0727,
+        "youtube": 0.0135,
+        "content_assembly": 0.4468,
+        "monetization": 0.0796,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 169.9851,
+      "phases": {
+        "preparation": 167.2827,
+        "media_svg": 0.0806,
+        "youtube": 0.0111,
+        "content_assembly": 0.4244,
+        "monetization": 2.1541,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 226.5945,
+      "phases": {
+        "preparation": 215.7816,
+        "media_svg": 0.0968,
+        "youtube": 0.01,
+        "content_assembly": 0.4336,
+        "monetization": 10.2447,
+        "quality_write": 0.0277
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 199.12,
+      "phases": {
+        "preparation": 198.4954,
+        "media_svg": 0.0974,
+        "youtube": 0.0155,
+        "content_assembly": 0.4243,
+        "monetization": 0.0555,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 240.516,
+      "phases": {
+        "preparation": 239.8103,
+        "media_svg": 0.1185,
+        "youtube": 0.0101,
+        "content_assembly": 0.4422,
+        "monetization": 0.1065,
+        "quality_write": 0.0283
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 247.5799,
+      "phases": {
+        "preparation": 243.9923,
+        "media_svg": 0.0701,
+        "youtube": 0.0086,
+        "content_assembly": 0.4526,
+        "monetization": 3.018,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 145.0756,
+      "phases": {
+        "preparation": 143.9163,
+        "media_svg": 0.6897,
+        "youtube": 0.0082,
+        "content_assembly": 0.391,
+        "monetization": 0.0394,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 130.543,
+      "phases": {
+        "preparation": 128.0669,
+        "media_svg": 0.6777,
+        "youtube": 0.0138,
+        "content_assembly": 0.392,
+        "monetization": 1.3642,
+        "quality_write": 0.0285
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 192.5056,
+      "phases": {
+        "preparation": 189.1616,
+        "media_svg": 0.6584,
+        "youtube": 0.0102,
+        "content_assembly": 0.4066,
+        "monetization": 2.243,
+        "quality_write": 0.0259
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 211.9725,
+      "phases": {
+        "preparation": 210.7484,
+        "media_svg": 0.6776,
+        "youtube": 0.0086,
+        "content_assembly": 0.4067,
+        "monetization": 0.1063,
+        "quality_write": 0.0248
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_phonology_vs_9be1b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 226.9684,
+      "phases": {
+        "preparation": 224.4255,
+        "media_svg": 0.6451,
+        "youtube": 0.0125,
+        "content_assembly": 0.4127,
+        "monetization": 1.4381,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 213.0369,
+      "phases": {
+        "preparation": 210.8548,
+        "media_svg": 0.668,
+        "youtube": 0.0167,
+        "content_assembly": 0.4075,
+        "monetization": 1.0572,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.7326,
+      "phases": {
+        "preparation": 167.899,
+        "media_svg": 0.654,
+        "youtube": 0.0132,
+        "content_assembly": 0.3915,
+        "monetization": 3.7434,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 180.3558,
+      "phases": {
+        "preparation": 177.7895,
+        "media_svg": 0.7048,
+        "youtube": 0.0123,
+        "content_assembly": 0.3991,
+        "monetization": 1.4199,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 146.3877,
+      "phases": {
+        "preparation": 142.0961,
+        "media_svg": 0.7144,
+        "youtube": 0.0114,
+        "content_assembly": 0.3883,
+        "monetization": 3.1477,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 189.5921,
+      "phases": {
+        "preparation": 180.8557,
+        "media_svg": 0.6691,
+        "youtube": 0.0153,
+        "content_assembly": 0.4119,
+        "monetization": 7.6093,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_fluent_model_375466",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 234.4066,
+      "phases": {
+        "preparation": 219.7998,
+        "media_svg": 0.6886,
+        "youtube": 11.5884,
+        "content_assembly": 0.4641,
+        "monetization": 1.831,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 174.7263,
+      "phases": {
+        "preparation": 165.4605,
+        "media_svg": 0.7061,
+        "youtube": 0.0135,
+        "content_assembly": 0.4045,
+        "monetization": 8.1166,
+        "quality_write": 0.0251
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 237.6738,
+      "phases": {
+        "preparation": 227.9639,
+        "media_svg": 0.6472,
+        "youtube": 5.8874,
+        "content_assembly": 0.4518,
+        "monetization": 2.6887,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 189.4207,
+      "phases": {
+        "preparation": 176.0435,
+        "media_svg": 0.6726,
+        "youtube": 10.1704,
+        "content_assembly": 0.4731,
+        "monetization": 2.0287,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 187.5478,
+      "phases": {
+        "preparation": 169.8079,
+        "media_svg": 0.6985,
+        "youtube": 15.2089,
+        "content_assembly": 0.4322,
+        "monetization": 1.3694,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 195.9514,
+      "phases": {
+        "preparation": 194.7574,
+        "media_svg": 0.6845,
+        "youtube": 0.0175,
+        "content_assembly": 0.4104,
+        "monetization": 0.0494,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_research_pape_68b038",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 194.3073,
+      "phases": {
+        "preparation": 169.7075,
+        "media_svg": 0.6437,
+        "youtube": 22.1172,
+        "content_assembly": 0.467,
+        "monetization": 1.3405,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.5329,
+      "phases": {
+        "preparation": 194.1494,
+        "media_svg": 0.6958,
+        "youtube": 6.0172,
+        "content_assembly": 0.4379,
+        "monetization": 2.2075,
+        "quality_write": 0.0251
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 235.8313,
+      "phases": {
+        "preparation": 230.4583,
+        "media_svg": 0.672,
+        "youtube": 3.6097,
+        "content_assembly": 0.4296,
+        "monetization": 0.6254,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 290.5664,
+      "phases": {
+        "preparation": 287.0903,
+        "media_svg": 0.701,
+        "youtube": 0.0116,
+        "content_assembly": 0.4193,
+        "monetization": 2.3104,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 164.7978,
+      "phases": {
+        "preparation": 158.7232,
+        "media_svg": 0.6868,
+        "youtube": 3.3362,
+        "content_assembly": 0.4215,
+        "monetization": 1.6008,
+        "quality_write": 0.0292
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 215.5044,
+      "phases": {
+        "preparation": 199.2116,
+        "media_svg": 0.7041,
+        "youtube": 11.2283,
+        "content_assembly": 0.4447,
+        "monetization": 3.882,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 211.3634,
+      "phases": {
+        "preparation": 198.2742,
+        "media_svg": 0.6839,
+        "youtube": 11.8973,
+        "content_assembly": 0.4318,
+        "monetization": 0.0439,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 218.4497,
+      "phases": {
+        "preparation": 178.9008,
+        "media_svg": 0.7157,
+        "youtube": 31.8774,
+        "content_assembly": 0.4511,
+        "monetization": 6.4804,
+        "quality_write": 0.0243
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 242.2172,
+      "phases": {
+        "preparation": 235.8819,
+        "media_svg": 0.7077,
+        "youtube": 0.0145,
+        "content_assembly": 0.4152,
+        "monetization": 5.1719,
+        "quality_write": 0.026
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_inference_que_937286",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.2917,
+      "phases": {
+        "preparation": 198.7925,
+        "media_svg": 0.652,
+        "youtube": 0.0084,
+        "content_assembly": 0.4103,
+        "monetization": 3.3931,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 162.1056,
+      "phases": {
+        "preparation": 160.8515,
+        "media_svg": 0.7155,
+        "youtube": 0.0139,
+        "content_assembly": 0.4238,
+        "monetization": 0.0696,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 192.0855,
+      "phases": {
+        "preparation": 189.0414,
+        "media_svg": 0.7276,
+        "youtube": 0.012,
+        "content_assembly": 0.416,
+        "monetization": 1.8563,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 199.9402,
+      "phases": {
+        "preparation": 189.5957,
+        "media_svg": 0.7279,
+        "youtube": 0.0126,
+        "content_assembly": 0.4126,
+        "monetization": 9.1602,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.612,
+      "phases": {
+        "preparation": 199.648,
+        "media_svg": 0.6526,
+        "youtube": 0.0139,
+        "content_assembly": 0.4165,
+        "monetization": 2.8481,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 271.4818,
+      "phases": {
+        "preparation": 260.2152,
+        "media_svg": 0.7235,
+        "youtube": 0.01,
+        "content_assembly": 0.4283,
+        "monetization": 10.0678,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 230.5123,
+      "phases": {
+        "preparation": 227.7356,
+        "media_svg": 0.6978,
+        "youtube": 0.0135,
+        "content_assembly": 0.4171,
+        "monetization": 1.6152,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 219.007,
+      "phases": {
+        "preparation": 215.8598,
+        "media_svg": 0.7568,
+        "youtube": 0.0122,
+        "content_assembly": 0.429,
+        "monetization": 1.9108,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 246.7767,
+      "phases": {
+        "preparation": 244.2987,
+        "media_svg": 0.6942,
+        "youtube": 0.0153,
+        "content_assembly": 0.418,
+        "monetization": 1.3162,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 233.0276,
+      "phases": {
+        "preparation": 228.7476,
+        "media_svg": 0.7134,
+        "youtube": 0.0131,
+        "content_assembly": 0.4185,
+        "monetization": 3.1008,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 252.2348,
+      "phases": {
+        "preparation": 246.6657,
+        "media_svg": 0.6966,
+        "youtube": 0.0091,
+        "content_assembly": 0.4185,
+        "monetization": 4.4117,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 247.5088,
+      "phases": {
+        "preparation": 244.5147,
+        "media_svg": 0.7229,
+        "youtube": 0.013,
+        "content_assembly": 0.4138,
+        "monetization": 1.8078,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.8907,
+      "phases": {
+        "preparation": 120.663,
+        "media_svg": 0.732,
+        "youtube": 0.0128,
+        "content_assembly": 0.3978,
+        "monetization": 0.0544,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 255.5395,
+      "phases": {
+        "preparation": 247.1938,
+        "media_svg": 0.703,
+        "youtube": 0.0128,
+        "content_assembly": 0.4147,
+        "monetization": 7.178,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 227.8922,
+      "phases": {
+        "preparation": 211.773,
+        "media_svg": 0.6812,
+        "youtube": 0.0109,
+        "content_assembly": 0.4174,
+        "monetization": 14.9846,
+        "quality_write": 0.0251
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 183.0831,
+      "phases": {
+        "preparation": 180.8415,
+        "media_svg": 0.7036,
+        "youtube": 0.0133,
+        "content_assembly": 0.4092,
+        "monetization": 1.0816,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 219.8886,
+      "phases": {
+        "preparation": 209.3164,
+        "media_svg": 0.6923,
+        "youtube": 0.0108,
+        "content_assembly": 0.4079,
+        "monetization": 9.4263,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 238.3846,
+      "phases": {
+        "preparation": 235.518,
+        "media_svg": 0.7016,
+        "youtube": 0.0088,
+        "content_assembly": 0.4222,
+        "monetization": 1.6985,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 207.4951,
+      "phases": {
+        "preparation": 205.0348,
+        "media_svg": 0.7245,
+        "youtube": 0.01,
+        "content_assembly": 0.4171,
+        "monetization": 1.2761,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 198.8802,
+      "phases": {
+        "preparation": 197.0633,
+        "media_svg": 0.2742,
+        "youtube": 0.0107,
+        "content_assembly": 0.4115,
+        "monetization": 1.0879,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 232.386,
+      "phases": {
+        "preparation": 227.2748,
+        "media_svg": 0.7211,
+        "youtube": 0.5259,
+        "content_assembly": 0.4616,
+        "monetization": 3.3674,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 210.095,
+      "phases": {
+        "preparation": 208.3007,
+        "media_svg": 0.6801,
+        "youtube": 0.5678,
+        "content_assembly": 0.4523,
+        "monetization": 0.0635,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.9956,
+      "phases": {
+        "preparation": 128.717,
+        "media_svg": 0.7458,
+        "youtube": 0.528,
+        "content_assembly": 0.4222,
+        "monetization": 5.5466,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_regression_wo_424703",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 201.239,
+      "phases": {
+        "preparation": 196.5543,
+        "media_svg": 0.7137,
+        "youtube": 0.5524,
+        "content_assembly": 0.445,
+        "monetization": 2.9387,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 200.1728,
+      "phases": {
+        "preparation": 193.5275,
+        "media_svg": 0.7239,
+        "youtube": 0.5208,
+        "content_assembly": 0.4068,
+        "monetization": 4.9652,
+        "quality_write": 0.0287
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 190.7312,
+      "phases": {
+        "preparation": 178.836,
+        "media_svg": 0.7135,
+        "youtube": 0.5533,
+        "content_assembly": 0.4531,
+        "monetization": 10.1487,
+        "quality_write": 0.0266
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_regressions_r_724139",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.4436,
+      "phases": {
+        "preparation": 147.5525,
+        "media_svg": 0.72,
+        "youtube": 0.5568,
+        "content_assembly": 0.4222,
+        "monetization": 10.1674,
+        "quality_write": 0.0247
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 197.1145,
+      "phases": {
+        "preparation": 184.5234,
+        "media_svg": 0.7141,
+        "youtube": 0.5449,
+        "content_assembly": 0.447,
+        "monetization": 10.8585,
+        "quality_write": 0.0265
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 195.0372,
+      "phases": {
+        "preparation": 190.3942,
+        "media_svg": 0.6962,
+        "youtube": 0.5228,
+        "content_assembly": 0.3954,
+        "monetization": 2.994,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.4272,
+      "phases": {
+        "preparation": 134.7456,
+        "media_svg": 0.6482,
+        "youtube": 0.5175,
+        "content_assembly": 0.3886,
+        "monetization": 5.0934,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 234.343,
+      "phases": {
+        "preparation": 223.2438,
+        "media_svg": 0.3569,
+        "youtube": 0.0133,
+        "content_assembly": 0.4167,
+        "monetization": 10.2833,
+        "quality_write": 0.0289
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 161.9748,
+      "phases": {
+        "preparation": 158.0753,
+        "media_svg": 0.6863,
+        "youtube": 0.5213,
+        "content_assembly": 0.4556,
+        "monetization": 2.2049,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 183.9766,
+      "phases": {
+        "preparation": 181.2081,
+        "media_svg": 0.7545,
+        "youtube": 0.559,
+        "content_assembly": 0.43,
+        "monetization": 0.9932,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 189.5641,
+      "phases": {
+        "preparation": 184.3095,
+        "media_svg": 0.6788,
+        "youtube": 4.0491,
+        "content_assembly": 0.4321,
+        "monetization": 0.0589,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 232.468,
+      "phases": {
+        "preparation": 230.6825,
+        "media_svg": 0.7019,
+        "youtube": 0.5417,
+        "content_assembly": 0.4637,
+        "monetization": 0.0456,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_dense_texts_0df108",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 136.615,
+      "phases": {
+        "preparation": 135.416,
+        "media_svg": 0.7069,
+        "youtube": 0.0111,
+        "content_assembly": 0.3797,
+        "monetization": 0.0712,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_phonology_vs_9be1b0_inner_speech_f01a4b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 176.9046,
+      "phases": {
+        "preparation": 174.6591,
+        "media_svg": 0.6931,
+        "youtube": 1.0097,
+        "content_assembly": 0.4412,
+        "monetization": 0.0709,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_phonology_vs_9be1b0_articulatory_86f9d1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 214.7816,
+      "phases": {
+        "preparation": 209.303,
+        "media_svg": 0.6796,
+        "youtube": 0.5485,
+        "content_assembly": 0.4568,
+        "monetization": 3.7591,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d_slash_phrase_6f1220",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.4879,
+      "phases": {
+        "preparation": 178.5112,
+        "media_svg": 0.6465,
+        "youtube": 0.5282,
+        "content_assembly": 0.3827,
+        "monetization": 5.3853,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_hidden_email_66beb2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 253.008,
+      "phases": {
+        "preparation": 210.4326,
+        "media_svg": 0.6942,
+        "youtube": 35.6493,
+        "content_assembly": 0.4263,
+        "monetization": 5.7725,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 232.1286,
+      "phases": {
+        "preparation": 223.0702,
+        "media_svg": 0.7098,
+        "youtube": 0.5231,
+        "content_assembly": 0.4115,
+        "monetization": 7.381,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 171.8957,
+      "phases": {
+        "preparation": 169.2382,
+        "media_svg": 0.6912,
+        "youtube": 0.536,
+        "content_assembly": 0.4275,
+        "monetization": 0.9722,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_hard_words_fi_e7c4cb",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 191.1489,
+      "phases": {
+        "preparation": 186.4765,
+        "media_svg": 0.7052,
+        "youtube": 3.4512,
+        "content_assembly": 0.4389,
+        "monetization": 0.0427,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_sentence_0c8cff",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 190.3207,
+      "phases": {
+        "preparation": 187.7494,
+        "media_svg": 0.7049,
+        "youtube": 0.012,
+        "content_assembly": 0.3925,
+        "monetization": 1.4287,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_eye_movement_5e51f1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 181.0026,
+      "phases": {
+        "preparation": 176.6031,
+        "media_svg": 0.6673,
+        "youtube": 3.2246,
+        "content_assembly": 0.4085,
+        "monetization": 0.0747,
+        "quality_write": 0.0244
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 226.1329,
+      "phases": {
+        "preparation": 217.9632,
+        "media_svg": 0.667,
+        "youtube": 3.459,
+        "content_assembly": 0.4351,
+        "monetization": 3.5692,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_pronoun_ambig_f17f02",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 157.1452,
+      "phases": {
+        "preparation": 154.3565,
+        "media_svg": 0.6863,
+        "youtube": 0.0113,
+        "content_assembly": 0.3868,
+        "monetization": 1.6736,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.9889,
+      "phases": {
+        "preparation": 206.2135,
+        "media_svg": 0.6966,
+        "youtube": 0.5492,
+        "content_assembly": 0.4263,
+        "monetization": 0.0765,
+        "quality_write": 0.0267
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_rewind_contro_c28446",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 131.6243,
+      "phases": {
+        "preparation": 130.4228,
+        "media_svg": 0.7289,
+        "youtube": 0.0122,
+        "content_assembly": 0.3764,
+        "monetization": 0.0553,
+        "quality_write": 0.0287
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905_optimal_recog_0958ca",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 147.5044,
+      "phases": {
+        "preparation": 141.8532,
+        "media_svg": 0.6967,
+        "youtube": 0.0111,
+        "content_assembly": 0.3892,
+        "monetization": 4.5212,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905_rsvp_small_sc_b165ae",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 142.4063,
+      "phases": {
+        "preparation": 135.7014,
+        "media_svg": 0.6773,
+        "youtube": 0.5177,
+        "content_assembly": 0.3747,
+        "monetization": 5.1034,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905_rsvp_speed_il_c9da77",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 170.113,
+      "phases": {
+        "preparation": 160.5952,
+        "media_svg": 0.6981,
+        "youtube": 0.5424,
+        "content_assembly": 0.429,
+        "monetization": 7.8247,
+        "quality_write": 0.0235
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_research_pape_68b038_figures_main_58ba81",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.3881,
+      "phases": {
+        "preparation": 167.6136,
+        "media_svg": 0.6863,
+        "youtube": 3.3703,
+        "content_assembly": 0.4184,
+        "monetization": 1.267,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_research_pape_68b038_preview_less_107e7a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 189.0338,
+      "phases": {
+        "preparation": 178.6891,
+        "media_svg": 0.6505,
+        "youtube": 3.5807,
+        "content_assembly": 0.4253,
+        "monetization": 5.6533,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_skim_outline_47dba3",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 230.7558,
+      "phases": {
+        "preparation": 226.7822,
+        "media_svg": 0.7213,
+        "youtube": 0.5191,
+        "content_assembly": 0.3987,
+        "monetization": 2.3041,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11_contract_skim_73495c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 261.4428,
+      "phases": {
+        "preparation": 255.6988,
+        "media_svg": 0.7449,
+        "youtube": 0.5701,
+        "content_assembly": 0.4516,
+        "monetization": 3.941,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11_qualifier_wor_b9396d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 214.4694,
+      "phases": {
+        "preparation": 204.1523,
+        "media_svg": 0.6989,
+        "youtube": 3.766,
+        "content_assembly": 0.4288,
+        "monetization": 5.3983,
+        "quality_write": 0.025
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11_medication_wa_62aa6d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 397.9859,
+      "phases": {
+        "preparation": 386.9925,
+        "media_svg": 0.6648,
+        "youtube": 5.4038,
+        "content_assembly": 0.4896,
+        "monetization": 4.3913,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_claim_recall_6d0503",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 194.6247,
+      "phases": {
+        "preparation": 191.7039,
+        "media_svg": 0.6654,
+        "youtube": 0.5391,
+        "content_assembly": 0.4127,
+        "monetization": 1.2718,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_phonology_vs_9be1b0_sound_cues_wo_2fd40f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.2855,
+      "phases": {
+        "preparation": 183.5094,
+        "media_svg": 0.6875,
+        "youtube": 0.5279,
+        "content_assembly": 0.4416,
+        "monetization": 0.0879,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d_phrase_readin_18a3d5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 214.3637,
+      "phases": {
+        "preparation": 202.8615,
+        "media_svg": 0.7031,
+        "youtube": 0.5405,
+        "content_assembly": 0.4333,
+        "monetization": 9.8,
+        "quality_write": 0.0254
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d_working_memor_6851ae",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 212.8832,
+      "phases": {
+        "preparation": 206.7012,
+        "media_svg": 0.3672,
+        "youtube": 0.5425,
+        "content_assembly": 0.4501,
+        "monetization": 4.7889,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_inference_que_937286_summaries_vs_6dc3a7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 174.7403,
+      "phases": {
+        "preparation": 169.3546,
+        "media_svg": 0.7303,
+        "youtube": 3.1705,
+        "content_assembly": 0.4589,
+        "monetization": 0.9928,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_false_speed_g_1948de",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 224.2068,
+      "phases": {
+        "preparation": 222.5329,
+        "media_svg": 0.6534,
+        "youtube": 0.5321,
+        "content_assembly": 0.4009,
+        "monetization": 0.0563,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_main_idea_sum_5694db",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 220.4698,
+      "phases": {
+        "preparation": 217.4814,
+        "media_svg": 0.7255,
+        "youtube": 0.5401,
+        "content_assembly": 0.4285,
+        "monetization": 1.2624,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_summary_scori_1e034d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 212.0846,
+      "phases": {
+        "preparation": 210.3271,
+        "media_svg": 0.6954,
+        "youtube": 0.5293,
+        "content_assembly": 0.4277,
+        "monetization": 0.0733,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_false_fluent_1a4174",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 195.3856,
+      "phases": {
+        "preparation": 193.617,
+        "media_svg": 0.6952,
+        "youtube": 0.5367,
+        "content_assembly": 0.4215,
+        "monetization": 0.0829,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_four_reading_911028",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 193.923,
+      "phases": {
+        "preparation": 183.0467,
+        "media_svg": 0.7209,
+        "youtube": 0.5315,
+        "content_assembly": 0.4433,
+        "monetization": 9.1508,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_inner_rhythm_056aec",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 189.3693,
+      "phases": {
+        "preparation": 180.38,
+        "media_svg": 0.7038,
+        "youtube": 0.5383,
+        "content_assembly": 0.4291,
+        "monetization": 7.2842,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7_noun_phrases_4e667b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 215.3376,
+      "phases": {
+        "preparation": 211.2848,
+        "media_svg": 0.6905,
+        "youtube": 0.5304,
+        "content_assembly": 0.4312,
+        "monetization": 2.3638,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7_verb_phrases_a4da43",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 232.1455,
+      "phases": {
+        "preparation": 226.4496,
+        "media_svg": 0.6945,
+        "youtube": 2.9169,
+        "content_assembly": 0.41,
+        "monetization": 1.6408,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_auto_renewal_37d52b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 220.9399,
+      "phases": {
+        "preparation": 219.129,
+        "media_svg": 0.7369,
+        "youtube": 0.532,
+        "content_assembly": 0.4459,
+        "monetization": 0.0608,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_emails_that_n_d8706f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 215.1881,
+      "phases": {
+        "preparation": 213.4622,
+        "media_svg": 0.6995,
+        "youtube": 0.5355,
+        "content_assembly": 0.4153,
+        "monetization": 0.0433,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_tone_sensitiv_a13d23",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 202.4071,
+      "phases": {
+        "preparation": 196.0861,
+        "media_svg": 0.6689,
+        "youtube": 0.5263,
+        "content_assembly": 0.4362,
+        "monetization": 4.6576,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_fiction_vs_no_02e671",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 151.7099,
+      "phases": {
+        "preparation": 147.1795,
+        "media_svg": 0.649,
+        "youtube": 0.5433,
+        "content_assembly": 0.4211,
+        "monetization": 2.8839,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_scanning_vs_f_7ce4e9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 161.1625,
+      "phases": {
+        "preparation": 151.5815,
+        "media_svg": 0.7496,
+        "youtube": 3.0894,
+        "content_assembly": 0.4204,
+        "monetization": 5.2901,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_comprehension_8dbbb4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 210.0182,
+      "phases": {
+        "preparation": 199.6639,
+        "media_svg": 0.7181,
+        "youtube": 0.5448,
+        "content_assembly": 0.44,
+        "monetization": 8.6179,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_easy_text_slo_3197b1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 226.0217,
+      "phases": {
+        "preparation": 224.2513,
+        "media_svg": 0.708,
+        "youtube": 0.5357,
+        "content_assembly": 0.4316,
+        "monetization": 0.061,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_helpful_vs_st_c4f46d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 226.1618,
+      "phases": {
+        "preparation": 224.4224,
+        "media_svg": 0.6615,
+        "youtube": 0.5329,
+        "content_assembly": 0.4488,
+        "monetization": 0.0627,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 208.47,
+      "phases": {
+        "preparation": 202.5791,
+        "media_svg": 0.6926,
+        "youtube": 0.5153,
+        "content_assembly": 0.4157,
+        "monetization": 4.2325,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_correction_st_cd7fd6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 191.3446,
+      "phases": {
+        "preparation": 186.0716,
+        "media_svg": 0.7342,
+        "youtube": 0.5397,
+        "content_assembly": 0.4376,
+        "monetization": 3.5268,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_fluent_models_0f4696",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 235.0063,
+      "phases": {
+        "preparation": 230.4625,
+        "media_svg": 0.7143,
+        "youtube": 3.311,
+        "content_assembly": 0.4428,
+        "monetization": 0.0425,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_adhd_att_20c6ab",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 195.2545,
+      "phases": {
+        "preparation": 192.4727,
+        "media_svg": 0.6709,
+        "youtube": 0.5352,
+        "content_assembly": 0.4354,
+        "monetization": 1.1068,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 152.8524,
+      "phases": {
+        "preparation": 147.1169,
+        "media_svg": 0.6979,
+        "youtube": 0.5302,
+        "content_assembly": 0.4158,
+        "monetization": 4.0612,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_missing_previ_d45570",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 144.9744,
+      "phases": {
+        "preparation": 143.1902,
+        "media_svg": 0.7139,
+        "youtube": 0.5459,
+        "content_assembly": 0.4192,
+        "monetization": 0.0789,
+        "quality_write": 0.0261
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_when_to_slow_c12ffc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 253.5198,
+      "phases": {
+        "preparation": 248.6693,
+        "media_svg": 0.6874,
+        "youtube": 3.6421,
+        "content_assembly": 0.4297,
+        "monetization": 0.059,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_inner_speech_946b33",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 241.6479,
+      "phases": {
+        "preparation": 237.866,
+        "media_svg": 0.3608,
+        "youtube": 0.54,
+        "content_assembly": 0.4527,
+        "monetization": 2.4009,
+        "quality_write": 0.0276
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_eye_tracking_a6d293",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 174.7557,
+      "phases": {
+        "preparation": 171.8677,
+        "media_svg": 0.7396,
+        "youtube": 0.5348,
+        "content_assembly": 0.4331,
+        "monetization": 1.148,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_schemas_easy_3cb6d1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 256.8392,
+      "phases": {
+        "preparation": 244.6562,
+        "media_svg": 0.7003,
+        "youtube": 8.607,
+        "content_assembly": 0.4491,
+        "monetization": 2.3927,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_methods_secti_5e2c99",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 204.6253,
+      "phases": {
+        "preparation": 200.2897,
+        "media_svg": 0.6879,
+        "youtube": 0.5205,
+        "content_assembly": 0.4164,
+        "monetization": 2.6764,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_previewing_ac_210b68",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 211.486,
+      "phases": {
+        "preparation": 208.331,
+        "media_svg": 0.7066,
+        "youtube": 0.5444,
+        "content_assembly": 0.4316,
+        "monetization": 1.4382,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_schemas_reduc_e0315f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 177.5597,
+      "phases": {
+        "preparation": 172.5321,
+        "media_svg": 0.745,
+        "youtube": 0.5287,
+        "content_assembly": 0.4173,
+        "monetization": 3.3026,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.6474,
+      "phases": {
+        "preparation": 169.9222,
+        "media_svg": 0.7192,
+        "youtube": 0.5397,
+        "content_assembly": 0.4146,
+        "monetization": 2.0191,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_plain_languag_2ed033",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 157.0968,
+      "phases": {
+        "preparation": 152.382,
+        "media_svg": 0.691,
+        "youtube": 0.5272,
+        "content_assembly": 0.4192,
+        "monetization": 3.0427,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_contradiction_964280",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 177.0289,
+      "phases": {
+        "preparation": 161.1627,
+        "media_svg": 0.7291,
+        "youtube": 12.0491,
+        "content_assembly": 0.4195,
+        "monetization": 2.6384,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_slow_read_con_4c2fe0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 252.0006,
+      "phases": {
+        "preparation": 249.0455,
+        "media_svg": 0.7231,
+        "youtube": 0.5363,
+        "content_assembly": 0.4836,
+        "monetization": 1.1794,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_layered_rerea_95a7b8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 209.3547,
+      "phases": {
+        "preparation": 205.2692,
+        "media_svg": 0.7203,
+        "youtube": 0.5263,
+        "content_assembly": 0.4352,
+        "monetization": 2.3734,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_targeted_sent_67929a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 187.3141,
+      "phases": {
+        "preparation": 185.5328,
+        "media_svg": 0.6968,
+        "youtube": 0.5469,
+        "content_assembly": 0.4358,
+        "monetization": 0.0778,
+        "quality_write": 0.024
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_research_pape_68b038_five_minute_p_76d600",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 203.2623,
+      "phases": {
+        "preparation": 201.5077,
+        "media_svg": 0.703,
+        "youtube": 0.5321,
+        "content_assembly": 0.4287,
+        "monetization": 0.0588,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_high_cost_wor_adbb2e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 260.1113,
+      "phases": {
+        "preparation": 255.5773,
+        "media_svg": 0.7049,
+        "youtube": 3.3089,
+        "content_assembly": 0.4161,
+        "monetization": 0.0778,
+        "quality_write": 0.0263
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_risky_dense_d_252b78",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 189.7924,
+      "phases": {
+        "preparation": 183.7737,
+        "media_svg": 0.6842,
+        "youtube": 2.9747,
+        "content_assembly": 0.4471,
+        "monetization": 1.8786,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_safe_skim_wor_78facd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 153.5237,
+      "phases": {
+        "preparation": 151.7467,
+        "media_svg": 0.7169,
+        "youtube": 0.5549,
+        "content_assembly": 0.4041,
+        "monetization": 0.0775,
+        "quality_write": 0.0235
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_contrast_word_56f429",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 204.0478,
+      "phases": {
+        "preparation": 199.7221,
+        "media_svg": 0.6516,
+        "youtube": 3.102,
+        "content_assembly": 0.4482,
+        "monetization": 0.0994,
+        "quality_write": 0.0244
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 227.3097,
+      "phases": {
+        "preparation": 225.548,
+        "media_svg": 0.69,
+        "youtube": 0.5412,
+        "content_assembly": 0.435,
+        "monetization": 0.0627,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 219.0312,
+      "phases": {
+        "preparation": 212.4258,
+        "media_svg": 0.6052,
+        "youtube": 5.4268,
+        "content_assembly": 0.4584,
+        "monetization": 0.0843,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_headings_pred_b1443b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 256.5223,
+      "phases": {
+        "preparation": 248.9986,
+        "media_svg": 0.6922,
+        "youtube": 3.0099,
+        "content_assembly": 0.4319,
+        "monetization": 3.3569,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_topic_sentenc_9e0d61",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 218.6513,
+      "phases": {
+        "preparation": 216.8535,
+        "media_svg": 0.7211,
+        "youtube": 0.5302,
+        "content_assembly": 0.4163,
+        "monetization": 0.1052,
+        "quality_write": 0.0249
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce_choosing_skim_299f5a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 191.759,
+      "phases": {
+        "preparation": 187.6822,
+        "media_svg": 0.6996,
+        "youtube": 0.5396,
+        "content_assembly": 0.4275,
+        "monetization": 2.3803,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce_evidence_focu_464087",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 202.0688,
+      "phases": {
+        "preparation": 195.4552,
+        "media_svg": 0.7019,
+        "youtube": 3.4894,
+        "content_assembly": 0.4247,
+        "monetization": 1.9664,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce_false_underst_751fcc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 153.2764,
+      "phases": {
+        "preparation": 149.413,
+        "media_svg": 0.711,
+        "youtube": 0.5414,
+        "content_assembly": 0.4043,
+        "monetization": 2.1786,
+        "quality_write": 0.0281
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_argument_mark_87fe32",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 195.3443,
+      "phases": {
+        "preparation": 192.5574,
+        "media_svg": 0.6969,
+        "youtube": 0.5321,
+        "content_assembly": 0.387,
+        "monetization": 1.1386,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_limitation_st_3548ce",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 216.1524,
+      "phases": {
+        "preparation": 212.2175,
+        "media_svg": 0.6657,
+        "youtube": 0.5587,
+        "content_assembly": 0.4362,
+        "monetization": 2.2429,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_need_third_pa_ff6081",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 138.0735,
+      "phases": {
+        "preparation": 133.7927,
+        "media_svg": 0.6526,
+        "youtube": 3.1778,
+        "content_assembly": 0.382,
+        "monetization": 0.0408,
+        "quality_write": 0.0275
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_evidence_vs_k_93281c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 176.2583,
+      "phases": {
+        "preparation": 171.7075,
+        "media_svg": 0.7201,
+        "youtube": 0.5509,
+        "content_assembly": 0.4359,
+        "monetization": 2.8133,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_structure_spe_9bbc67",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 159.9065,
+      "phases": {
+        "preparation": 155.8093,
+        "media_svg": 0.7224,
+        "youtube": 0.5338,
+        "content_assembly": 0.4297,
+        "monetization": 2.3755,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_negation_word_0f1e4f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 226.2433,
+      "phases": {
+        "preparation": 214.3478,
+        "media_svg": 0.6831,
+        "youtube": 0.5501,
+        "content_assembly": 0.4299,
+        "monetization": 10.2077,
+        "quality_write": 0.0247
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_shallow_fluen_c11417",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 216.4819,
+      "phases": {
+        "preparation": 209.3115,
+        "media_svg": 0.7097,
+        "youtube": 0.5378,
+        "content_assembly": 0.4494,
+        "monetization": 5.4414,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 164.2097,
+      "phases": {
+        "preparation": 158.2563,
+        "media_svg": 0.722,
+        "youtube": 0.5338,
+        "content_assembly": 0.4391,
+        "monetization": 4.2344,
+        "quality_write": 0.0241
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_legal_clauses_6dce4f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 192.0386,
+      "phases": {
+        "preparation": 188.8377,
+        "media_svg": 0.6965,
+        "youtube": 0.55,
+        "content_assembly": 0.4407,
+        "monetization": 1.483,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 151.2359,
+      "phases": {
+        "preparation": 148.8151,
+        "media_svg": 0.3603,
+        "youtube": 0.5428,
+        "content_assembly": 0.4233,
+        "monetization": 1.0644,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_unfamiliar_co_ce314b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 205.1846,
+      "phases": {
+        "preparation": 195.2159,
+        "media_svg": 0.7174,
+        "youtube": 3.0457,
+        "content_assembly": 0.4419,
+        "monetization": 5.7306,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_inference_que_937286_inference_acc_3ffa03",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.0933,
+      "phases": {
+        "preparation": 163.3691,
+        "media_svg": 0.6713,
+        "youtube": 0.5534,
+        "content_assembly": 0.4238,
+        "monetization": 0.0435,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_inference_que_937286_why_questions_6e6be2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 194.3898,
+      "phases": {
+        "preparation": 193.1968,
+        "media_svg": 0.698,
+        "youtube": 0.0091,
+        "content_assembly": 0.3858,
+        "monetization": 0.0688,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 228.0477,
+      "phases": {
+        "preparation": 226.2138,
+        "media_svg": 0.7444,
+        "youtube": 0.5395,
+        "content_assembly": 0.4333,
+        "monetization": 0.084,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_nonfiction_re_671c33",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 137.01,
+      "phases": {
+        "preparation": 135.2708,
+        "media_svg": 0.7063,
+        "youtube": 0.5238,
+        "content_assembly": 0.4179,
+        "monetization": 0.0593,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_familiarity_i_1303e1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 172.7908,
+      "phases": {
+        "preparation": 168.7406,
+        "media_svg": 0.7101,
+        "youtube": 0.5437,
+        "content_assembly": 0.4299,
+        "monetization": 2.3371,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_technical_acc_63ced4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 184.7263,
+      "phases": {
+        "preparation": 176.371,
+        "media_svg": 0.7196,
+        "youtube": 0.525,
+        "content_assembly": 0.3882,
+        "monetization": 6.6928,
+        "quality_write": 0.0296
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538_familiarity_i_18f47e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 171.8441,
+      "phases": {
+        "preparation": 168.6299,
+        "media_svg": 0.7099,
+        "youtube": 0.5498,
+        "content_assembly": 0.426,
+        "monetization": 1.4976,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538_fresh_passage_d834d7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 216.8623,
+      "phases": {
+        "preparation": 215.073,
+        "media_svg": 0.7168,
+        "youtube": 0.5313,
+        "content_assembly": 0.4246,
+        "monetization": 0.0832,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538_unseen_compre_fe1acb",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 164.7415,
+      "phases": {
+        "preparation": 158.7099,
+        "media_svg": 0.7313,
+        "youtube": 0.5565,
+        "content_assembly": 0.4232,
+        "monetization": 4.2882,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28_over_segmenta_a13829",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 274.0878,
+      "phases": {
+        "preparation": 265.9814,
+        "media_svg": 0.7117,
+        "youtube": 5.6979,
+        "content_assembly": 0.4477,
+        "monetization": 1.2133,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28_finding_phras_d877e9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 298.9392,
+      "phases": {
+        "preparation": 291.0811,
+        "media_svg": 0.6539,
+        "youtube": 5.3907,
+        "content_assembly": 0.4422,
+        "monetization": 1.3309,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_grouping_vs_s_ace1d0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 224.8521,
+      "phases": {
+        "preparation": 218.5752,
+        "media_svg": 0.6716,
+        "youtube": 3.0008,
+        "content_assembly": 0.4653,
+        "monetization": 2.1032,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28_phrase_cued_r_3e9b1b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 350.2179,
+      "phases": {
+        "preparation": 336.2438,
+        "media_svg": 0.7203,
+        "youtube": 7.5672,
+        "content_assembly": 0.4645,
+        "monetization": 5.1849,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_perceptual_sp_1579db",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 195.961,
+      "phases": {
+        "preparation": 190.7105,
+        "media_svg": 0.7151,
+        "youtube": 0.5381,
+        "content_assembly": 0.442,
+        "monetization": 3.5232,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_test_speed_co_6a44e6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 195.4903,
+      "phases": {
+        "preparation": 190.1604,
+        "media_svg": 0.6493,
+        "youtube": 0.5509,
+        "content_assembly": 0.4032,
+        "monetization": 3.6922,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_fade_phrase_c_0fae8e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 144.0862,
+      "phases": {
+        "preparation": 138.8662,
+        "media_svg": 0.6934,
+        "youtube": 3.0393,
+        "content_assembly": 0.4354,
+        "monetization": 1.0213,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 179.6713,
+      "phases": {
+        "preparation": 170.0018,
+        "media_svg": 0.6999,
+        "youtube": 0.0107,
+        "content_assembly": 0.3924,
+        "monetization": 8.5343,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_slash_cues_no_f6490a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 254.2048,
+      "phases": {
+        "preparation": 244.4667,
+        "media_svg": 0.7123,
+        "youtube": 2.8426,
+        "content_assembly": 0.439,
+        "monetization": 5.7078,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_suppressing_i_080994",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 176.0414,
+      "phases": {
+        "preparation": 172.1296,
+        "media_svg": 0.6457,
+        "youtube": 0.0093,
+        "content_assembly": 0.3845,
+        "monetization": 2.84,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_faster_silent_e15529",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 249.5974,
+      "phases": {
+        "preparation": 245.0659,
+        "media_svg": 0.705,
+        "youtube": 0.5325,
+        "content_assembly": 0.4395,
+        "monetization": 2.8172,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_definitions_e_bf03fb",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 205.7922,
+      "phases": {
+        "preparation": 199.375,
+        "media_svg": 0.7141,
+        "youtube": 0.5282,
+        "content_assembly": 0.4032,
+        "monetization": 4.7351,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7_contrast_sign_bc69c9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 231.695,
+      "phases": {
+        "preparation": 228.3612,
+        "media_svg": 0.7219,
+        "youtube": 0.5551,
+        "content_assembly": 0.433,
+        "monetization": 1.5912,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_liability_cap_93a921",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 308.8099,
+      "phases": {
+        "preparation": 305.8058,
+        "media_svg": 0.6463,
+        "youtube": 0.5358,
+        "content_assembly": 0.47,
+        "monetization": 1.3149,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45_drug_interact_ba01a1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 320.9429,
+      "phases": {
+        "preparation": 315.176,
+        "media_svg": 0.7075,
+        "youtube": 2.9689,
+        "content_assembly": 0.4644,
+        "monetization": 1.5862,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45_missed_dose_i_9c77ab",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 239.4301,
+      "phases": {
+        "preparation": 235.363,
+        "media_svg": 0.7336,
+        "youtube": 0.5333,
+        "content_assembly": 0.4146,
+        "monetization": 2.3494,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45_urgent_side_e_ddcced",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 267.427,
+      "phases": {
+        "preparation": 262.742,
+        "media_svg": 0.7041,
+        "youtube": 0.5772,
+        "content_assembly": 0.4472,
+        "monetization": 2.9201,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_decision_char_4864d1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 221.6336,
+      "phases": {
+        "preparation": 217.6109,
+        "media_svg": 0.6948,
+        "youtube": 0.533,
+        "content_assembly": 0.4327,
+        "monetization": 2.3276,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_executive_sum_d283e9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 241.3541,
+      "phases": {
+        "preparation": 239.6182,
+        "media_svg": 0.6672,
+        "youtube": 0.5369,
+        "content_assembly": 0.4392,
+        "monetization": 0.0597,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_report_caveat_244f60",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 241.352,
+      "phases": {
+        "preparation": 238.5733,
+        "media_svg": 0.7255,
+        "youtube": 0.5559,
+        "content_assembly": 0.4318,
+        "monetization": 1.0301,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a_concept_doc_s_c8324e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 233.2658,
+      "phases": {
+        "preparation": 228.4437,
+        "media_svg": 0.714,
+        "youtube": 0.5428,
+        "content_assembly": 0.4362,
+        "monetization": 3.0935,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a_reference_doc_c0a3fd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 206.5685,
+      "phases": {
+        "preparation": 195.4087,
+        "media_svg": 0.723,
+        "youtube": 2.7745,
+        "content_assembly": 0.4187,
+        "monetization": 7.2114,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a_task_doc_accu_8dc89a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 205.8669,
+      "phases": {
+        "preparation": 198.9938,
+        "media_svg": 0.6449,
+        "youtube": 0.5466,
+        "content_assembly": 0.4337,
+        "monetization": 5.2166,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671_careful_readi_bf6303",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 155.574,
+      "phases": {
+        "preparation": 153.7907,
+        "media_svg": 0.7282,
+        "youtube": 0.5293,
+        "content_assembly": 0.4305,
+        "monetization": 0.0634,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671_long_words_sl_8525a1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 186.7663,
+      "phases": {
+        "preparation": 180.7217,
+        "media_svg": 0.6979,
+        "youtube": 2.9906,
+        "content_assembly": 0.4586,
+        "monetization": 1.8657,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671_nonfiction_re_c45d48",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 169.2194,
+      "phases": {
+        "preparation": 165.1382,
+        "media_svg": 0.6689,
+        "youtube": 0.5334,
+        "content_assembly": 0.4165,
+        "monetization": 2.4313,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e_comprehension_93217a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 206.2758,
+      "phases": {
+        "preparation": 199.668,
+        "media_svg": 0.6576,
+        "youtube": 0.5389,
+        "content_assembly": 0.436,
+        "monetization": 4.9491,
+        "quality_write": 0.0263
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e_realistic_pas_04cd26",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 135.981,
+      "phases": {
+        "preparation": 124.3339,
+        "media_svg": 0.7267,
+        "youtube": 0.5367,
+        "content_assembly": 0.4095,
+        "monetization": 9.9532,
+        "quality_write": 0.021
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e_wpm_comprehen_61c4c8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 217.1474,
+      "phases": {
+        "preparation": 205.7512,
+        "media_svg": 0.6517,
+        "youtube": 0.5401,
+        "content_assembly": 0.4428,
+        "monetization": 9.7374,
+        "quality_write": 0.0242
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 235.4936,
+      "phases": {
+        "preparation": 233.7073,
+        "media_svg": 0.7217,
+        "youtube": 0.5327,
+        "content_assembly": 0.4141,
+        "monetization": 0.0919,
+        "quality_write": 0.026
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_general_under_392154",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 199.764,
+      "phases": {
+        "preparation": 197.0009,
+        "media_svg": 0.742,
+        "youtube": 0.5619,
+        "content_assembly": 0.4292,
+        "monetization": 0.9987,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_useful_500wpm_35ce5f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 192.5367,
+      "phases": {
+        "preparation": 187.6794,
+        "media_svg": 0.7435,
+        "youtube": 3.5514,
+        "content_assembly": 0.4429,
+        "monetization": 0.095,
+        "quality_write": 0.0245
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_fluency_not_c_049a29",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 168.5074,
+      "phases": {
+        "preparation": 163.7913,
+        "media_svg": 0.6564,
+        "youtube": 0.5434,
+        "content_assembly": 0.4219,
+        "monetization": 3.0623,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_guided_repeat_8cc530",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 248.5505,
+      "phases": {
+        "preparation": 238.3898,
+        "media_svg": 0.7528,
+        "youtube": 3.3126,
+        "content_assembly": 0.4377,
+        "monetization": 5.6239,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 175.5299,
+      "phases": {
+        "preparation": 166.3262,
+        "media_svg": 0.7295,
+        "youtube": 2.9855,
+        "content_assembly": 0.4206,
+        "monetization": 5.0379,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2_accuracy_thre_d342ca",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 202.2125,
+      "phases": {
+        "preparation": 199.2653,
+        "media_svg": 0.7375,
+        "youtube": 0.535,
+        "content_assembly": 0.4364,
+        "monetization": 1.206,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2_repeated_stru_203528",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 162.8254,
+      "phases": {
+        "preparation": 159.8614,
+        "media_svg": 0.7344,
+        "youtube": 0.5362,
+        "content_assembly": 0.4095,
+        "monetization": 1.2528,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2_short_passage_635207",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 174.9393,
+      "phases": {
+        "preparation": 164.2682,
+        "media_svg": 0.7363,
+        "youtube": 5.3603,
+        "content_assembly": 0.4433,
+        "monetization": 4.0956,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_comprehension_d02287",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 222.9786,
+      "phases": {
+        "preparation": 219.0275,
+        "media_svg": 0.722,
+        "youtube": 0.5472,
+        "content_assembly": 0.4357,
+        "monetization": 2.2146,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_guessing_fals_3b7413",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 217.0535,
+      "phases": {
+        "preparation": 214.1444,
+        "media_svg": 0.7351,
+        "youtube": 0.5392,
+        "content_assembly": 0.4308,
+        "monetization": 1.1714,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_wcpm_false_sp_c5e9ec",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 239.3356,
+      "phases": {
+        "preparation": 227.3245,
+        "media_svg": 0.6641,
+        "youtube": 5.7368,
+        "content_assembly": 0.4249,
+        "monetization": 5.1541,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_rereading_gai_f384c0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 241.3393,
+      "phases": {
+        "preparation": 238.0398,
+        "media_svg": 0.6876,
+        "youtube": 0.5307,
+        "content_assembly": 0.4411,
+        "monetization": 1.6059,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_shift_to_wide_64be28",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 212.0392,
+      "phases": {
+        "preparation": 207.1311,
+        "media_svg": 0.7456,
+        "youtube": 2.9805,
+        "content_assembly": 0.4358,
+        "monetization": 0.7111,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 177.8562,
+      "phases": {
+        "preparation": 176.0523,
+        "media_svg": 0.7185,
+        "youtube": 0.5718,
+        "content_assembly": 0.4195,
+        "monetization": 0.0626,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 257.0462,
+      "phases": {
+        "preparation": 255.2559,
+        "media_svg": 0.7258,
+        "youtube": 0.5394,
+        "content_assembly": 0.4334,
+        "monetization": 0.0592,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_delayed_verif_cee97d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 184.307,
+      "phases": {
+        "preparation": 181.3345,
+        "media_svg": 0.7413,
+        "youtube": 0.5418,
+        "content_assembly": 0.4186,
+        "monetization": 1.2405,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_false_clarity_f5304d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 210.3115,
+      "phases": {
+        "preparation": 208.5534,
+        "media_svg": 0.6696,
+        "youtube": 0.5374,
+        "content_assembly": 0.4555,
+        "monetization": 0.0642,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e_full_page_res_87517d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 184.2927,
+      "phases": {
+        "preparation": 181.3402,
+        "media_svg": 0.665,
+        "youtube": 0.5484,
+        "content_assembly": 0.4391,
+        "monetization": 1.2705,
+        "quality_write": 0.0296
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e_last_clear_po_faa5f4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 162.5993,
+      "phases": {
+        "preparation": 160.8693,
+        "media_svg": 0.6945,
+        "youtube": 0.5286,
+        "content_assembly": 0.414,
+        "monetization": 0.0607,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_difficult_voc_f8bc4d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 170.4395,
+      "phases": {
+        "preparation": 160.1837,
+        "media_svg": 0.6958,
+        "youtube": 3.0837,
+        "content_assembly": 0.4202,
+        "monetization": 6.0245,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e_short_regress_3a9130",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 200.012,
+      "phases": {
+        "preparation": 198.2152,
+        "media_svg": 0.7077,
+        "youtube": 0.5441,
+        "content_assembly": 0.4265,
+        "monetization": 0.0936,
+        "quality_write": 0.025
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 175.6517,
+      "phases": {
+        "preparation": 170.9966,
+        "media_svg": 0.6865,
+        "youtube": 3.4656,
+        "content_assembly": 0.415,
+        "monetization": 0.0546,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_targeted_vs_h_ac4e86",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 204.3509,
+      "phases": {
+        "preparation": 190.1102,
+        "media_svg": 0.6731,
+        "youtube": 0.5454,
+        "content_assembly": 0.4408,
+        "monetization": 12.5554,
+        "quality_write": 0.0258
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_numbers_condi_67e9e6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 162.9329,
+      "phases": {
+        "preparation": 150.4407,
+        "media_svg": 0.7057,
+        "youtube": 0.5323,
+        "content_assembly": 0.4098,
+        "monetization": 10.8225,
+        "quality_write": 0.0219
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_pronoun_confu_bcadad",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 188.9831,
+      "phases": {
+        "preparation": 184.3646,
+        "media_svg": 0.6943,
+        "youtube": 3.4036,
+        "content_assembly": 0.4198,
+        "monetization": 0.0696,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_specific_ques_473d5c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 238.7625,
+      "phases": {
+        "preparation": 233.115,
+        "media_svg": 0.712,
+        "youtube": 0.5333,
+        "content_assembly": 0.4527,
+        "monetization": 3.9139,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_regression_cu_b775bc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 200.7967,
+      "phases": {
+        "preparation": 199.0417,
+        "media_svg": 0.6908,
+        "youtube": 0.5361,
+        "content_assembly": 0.4363,
+        "monetization": 0.0596,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_slow_first_de_78041f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 203.3562,
+      "phases": {
+        "preparation": 194.1491,
+        "media_svg": 0.6528,
+        "youtube": 3.4123,
+        "content_assembly": 0.4191,
+        "monetization": 4.6909,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_working_memor_47cc32",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 217.9667,
+      "phases": {
+        "preparation": 213.4673,
+        "media_svg": 0.7243,
+        "youtube": 0.5443,
+        "content_assembly": 0.4296,
+        "monetization": 2.776,
+        "quality_write": 0.0251
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_moving_window_09e915",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.8369,
+      "phases": {
+        "preparation": 201.2972,
+        "media_svg": 0.6889,
+        "youtube": 0.5346,
+        "content_assembly": 0.4411,
+        "monetization": 4.8422,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_parafoveal_pr_510596",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 186.9748,
+      "phases": {
+        "preparation": 172.6911,
+        "media_svg": 0.7028,
+        "youtube": 0.5519,
+        "content_assembly": 0.4231,
+        "monetization": 12.5734,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_peripheral_vi_f35dd9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 162.5291,
+      "phases": {
+        "preparation": 148.4221,
+        "media_svg": 0.7025,
+        "youtube": 3.7048,
+        "content_assembly": 0.423,
+        "monetization": 9.2418,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_ambiguity_loo_c1046e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 142.9209,
+      "phases": {
+        "preparation": 136.1278,
+        "media_svg": 0.7223,
+        "youtube": 0.5467,
+        "content_assembly": 0.4063,
+        "monetization": 5.0827,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 151.0826,
+      "phases": {
+        "preparation": 149.8987,
+        "media_svg": 0.7043,
+        "youtube": 0.0113,
+        "content_assembly": 0.3818,
+        "monetization": 0.0568,
+        "quality_write": 0.0297
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_dense_text_re_7397dd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.5602,
+      "phases": {
+        "preparation": 179.0122,
+        "media_svg": 0.7167,
+        "youtube": 0.009,
+        "content_assembly": 0.3909,
+        "monetization": 5.4068,
+        "quality_write": 0.0245
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_rereadin_6f7d2e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 170.0704,
+      "phases": {
+        "preparation": 157.7296,
+        "media_svg": 0.645,
+        "youtube": 0.0158,
+        "content_assembly": 0.3904,
+        "monetization": 11.2655,
+        "quality_write": 0.0241
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_short_te_f6e331",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 156.0503,
+      "phases": {
+        "preparation": 154.9085,
+        "media_svg": 0.6631,
+        "youtube": 0.0081,
+        "content_assembly": 0.3797,
+        "monetization": 0.0588,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.7627,
+      "phases": {
+        "preparation": 184.0579,
+        "media_svg": 0.7028,
+        "youtube": 0.5432,
+        "content_assembly": 0.3865,
+        "monetization": 0.0424,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 202.2716,
+      "phases": {
+        "preparation": 197.1483,
+        "media_svg": 0.6939,
+        "youtube": 0.0133,
+        "content_assembly": 0.4005,
+        "monetization": 3.9815,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_inner_voice_s_c82840",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 177.4673,
+      "phases": {
+        "preparation": 165.488,
+        "media_svg": 0.7083,
+        "youtube": 0.0137,
+        "content_assembly": 0.3973,
+        "monetization": 10.8348,
+        "quality_write": 0.0252
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_research_abst_811ad9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 193.9886,
+      "phases": {
+        "preparation": 192.1193,
+        "media_svg": 0.7257,
+        "youtube": 0.6094,
+        "content_assembly": 0.4149,
+        "monetization": 0.0946,
+        "quality_write": 0.0248
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_baseball_know_bb161e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 152.456,
+      "phases": {
+        "preparation": 148.9486,
+        "media_svg": 0.6935,
+        "youtube": 0.5354,
+        "content_assembly": 0.4259,
+        "monetization": 1.8195,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_subvocalisati_6c5059",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 227.1253,
+      "phases": {
+        "preparation": 217.8078,
+        "media_svg": 0.6777,
+        "youtube": 3.4163,
+        "content_assembly": 0.4364,
+        "monetization": 4.7503,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_baseball_stud_818733",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 155.2014,
+      "phases": {
+        "preparation": 148.5179,
+        "media_svg": 0.6927,
+        "youtube": 0.556,
+        "content_assembly": 0.4144,
+        "monetization": 4.9862,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_prior_knowled_88cf5b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 269.3091,
+      "phases": {
+        "preparation": 267.5305,
+        "media_svg": 0.6958,
+        "youtube": 0.5358,
+        "content_assembly": 0.4501,
+        "monetization": 0.0613,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_preview_befor_9dcc30",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.6764,
+      "phases": {
+        "preparation": 203.85,
+        "media_svg": 0.6886,
+        "youtube": 0.5284,
+        "content_assembly": 0.4411,
+        "monetization": 2.1358,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_false_fluency_8db1ed",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 190.4243,
+      "phases": {
+        "preparation": 188.6116,
+        "media_svg": 0.7252,
+        "youtube": 0.5376,
+        "content_assembly": 0.4289,
+        "monetization": 0.0964,
+        "quality_write": 0.0246
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_missed_caveat_97f433",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 169.4027,
+      "phases": {
+        "preparation": 166.4521,
+        "media_svg": 0.6933,
+        "youtube": 0.5244,
+        "content_assembly": 0.3865,
+        "monetization": 1.3146,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_slowdown_trig_5eab81",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 169.7743,
+      "phases": {
+        "preparation": 163.2312,
+        "media_svg": 0.674,
+        "youtube": 0.5474,
+        "content_assembly": 0.423,
+        "monetization": 4.8671,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_deep_word_kno_52c33a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 235.9467,
+      "phases": {
+        "preparation": 231.2652,
+        "media_svg": 0.6953,
+        "youtube": 3.5195,
+        "content_assembly": 0.3938,
+        "monetization": 0.0418,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_rare_words_re_32b9f3",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 184.78,
+      "phases": {
+        "preparation": 181.4443,
+        "media_svg": 0.7234,
+        "youtube": 0.5408,
+        "content_assembly": 0.4344,
+        "monetization": 1.6056,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 223.2964,
+      "phases": {
+        "preparation": 221.5436,
+        "media_svg": 0.6906,
+        "youtube": 0.5314,
+        "content_assembly": 0.4527,
+        "monetization": 0.0449,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d_first_overvie_54f3bb",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 182.6463,
+      "phases": {
+        "preparation": 180.8718,
+        "media_svg": 0.709,
+        "youtube": 0.5471,
+        "content_assembly": 0.4383,
+        "monetization": 0.0485,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d_repeated_term_463c4a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 184.9906,
+      "phases": {
+        "preparation": 180.4328,
+        "media_svg": 0.693,
+        "youtube": 0.5309,
+        "content_assembly": 0.4373,
+        "monetization": 2.8655,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d_topic_switchi_e2fcbc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 156.9453,
+      "phases": {
+        "preparation": 155.201,
+        "media_svg": 0.7038,
+        "youtube": 0.5448,
+        "content_assembly": 0.4171,
+        "monetization": 0.0465,
+        "quality_write": 0.0321
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 2,
+    "workers_raw": "auto",
+    "max_workers": 2,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 253,
+    "reused_pages": 0,
+    "rebuilt_pages": 253,
+    "error_pages": 0,
+    "page_work_wall_seconds": 25849.0616,
+    "rebuilt_pages_per_minute": 0.5873,
+    "queued_rebuild_pages_per_minute": 0.5873,
+    "apparent_page_work_speedup": 1.9978,
+    "process_worker_diagnostics": {
+      "completed_pages": 253,
+      "successful_pages": 253,
+      "failed_pages": 0,
+      "worker_summary": {
+        "5052": {
+          "pages": 128,
+          "successes": 128,
+          "failures": 0,
+          "total_worker_seconds": 25803.7841,
+          "max_worker_seconds": 398.0263,
+          "last_base_name": "increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d_repeated_term_463c4a"
+        },
+        "13948": {
+          "pages": 125,
+          "successes": 125,
+          "failures": 0,
+          "total_worker_seconds": 25846.9047,
+          "max_worker_seconds": 350.2541,
+          "last_base_name": "increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d_topic_switchi_e2fcbc"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11_medication_wa_62aa6d",
+          "level": 4,
+          "success": true,
+          "worker_pid": 5052,
+          "worker_duration_seconds": 398.0263,
+          "total_seconds": 397.9859,
+          "worker_started_at_utc": "2026-06-16T23:04:43.276306Z",
+          "worker_finished_at_utc": "2026-06-16T23:11:21.262274Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28_phrase_cued_r_3e9b1b",
+          "level": 4,
+          "success": true,
+          "worker_pid": 13948,
+          "worker_duration_seconds": 350.2541,
+          "total_seconds": 350.2179,
+          "worker_started_at_utc": "2026-06-17T01:14:18.910322Z",
+          "worker_finished_at_utc": "2026-06-17T01:20:09.128245Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45_drug_interact_ba01a1",
+          "level": 4,
+          "success": true,
+          "worker_pid": 13948,
+          "worker_duration_seconds": 320.9791,
+          "total_seconds": 320.9429,
+          "worker_started_at_utc": "2026-06-17T01:34:26.745555Z",
+          "worker_finished_at_utc": "2026-06-17T01:39:47.688482Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "increasing_re_852ca6_phrase_readin_eba9de",
+          "level": 2,
+          "success": true,
+          "worker_pid": 5052,
+          "worker_duration_seconds": 309.2307,
+          "total_seconds": 309.1934,
+          "worker_started_at_utc": "2026-06-16T20:36:38.923847Z",
+          "worker_finished_at_utc": "2026-06-16T20:41:48.117236Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "increasing_re_852ca6",
+          "level": 1,
+          "success": true,
+          "worker_pid": 13948,
+          "worker_duration_seconds": 308.945,
+          "total_seconds": 308.9052,
+          "worker_started_at_utc": "2026-06-16T20:24:11.230638Z",
+          "worker_finished_at_utc": "2026-06-16T20:29:20.135882Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_liability_cap_93a921",
+          "level": 4,
+          "success": true,
+          "worker_pid": 5052,
+          "worker_duration_seconds": 308.8451,
+          "total_seconds": 308.8099,
+          "worker_started_at_utc": "2026-06-17T01:34:23.143280Z",
+          "worker_finished_at_utc": "2026-06-17T01:39:31.953183Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28_finding_phras_d877e9",
+          "level": 4,
+          "success": true,
+          "worker_pid": 5052,
+          "worker_duration_seconds": 298.9766,
+          "total_seconds": 298.9392,
+          "worker_started_at_utc": "2026-06-17T01:09:23.980643Z",
+          "worker_finished_at_utc": "2026-06-17T01:14:22.919892Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "increasing_re_852ca6_dense_materia_3cc00e",
+          "level": 2,
+          "success": true,
+          "worker_pid": 5052,
+          "worker_duration_seconds": 293.998,
+          "total_seconds": 293.9613,
+          "worker_started_at_utc": "2026-06-16T20:28:12.208795Z",
+          "worker_finished_at_utc": "2026-06-16T20:33:06.170149Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "increasing_re_852ca6_measure_readi_fdb760",
+          "level": 2,
+          "success": true,
+          "worker_pid": 13948,
+          "worker_duration_seconds": 291.2667,
+          "total_seconds": 291.2256,
+          "worker_started_at_utc": "2026-06-16T20:33:19.499505Z",
+          "worker_finished_at_utc": "2026-06-16T20:38:10.725168Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143",
+          "level": 3,
+          "success": true,
+          "worker_pid": 5052,
+          "worker_duration_seconds": 290.6013,
+          "total_seconds": 290.5664,
+          "worker_started_at_utc": "2026-06-16T21:20:14.334292Z",
+          "worker_finished_at_utc": "2026-06-16T21:25:04.900674Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
