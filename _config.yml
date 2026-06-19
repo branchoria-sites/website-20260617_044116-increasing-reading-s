@@ -10,7 +10,7 @@ locale: 'en'
 text_direction: 'ltr'
 direction: 'ltr'
 visual_profile: 'atlas'
-layout_archetype: 'atlas'
+layout_archetype: 'dossier'
 visual_palette: 'signal-cobalt'
 visual_motif: 'constellation'
 font_heading: 'Space Grotesk'
@@ -24,7 +24,7 @@ appearance_color_default: 'dark'
 mobile_layout_mode: 'article-first'
 mobile_sidebar_mode: 'collapsible'
 mobile_sidebar_default: 'closed'
-endnotes_mode: 'auto'
+endnotes_mode: 'collapsed'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
@@ -36,7 +36,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'cluster-diagram'
-ui_bundle_version: 'build-1781667305'
+ui_bundle_version: 'build-1781901214'
 google_site_verification: ''
 draft_noindex: false
 theme: minima

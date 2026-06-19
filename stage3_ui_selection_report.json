@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 253,
@@ -43,12 +43,83 @@
   },
   "selected": {
     "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "layout_archetype": "dossier",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "cluster-diagram",
     "palette": "signal-cobalt",
     "motif": "constellation"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 44,
+      "article_score": 36,
+      "interaction_score": 16,
+      "score": 3600,
+      "reasons": [
+        "dossier improves dense article branches",
+        "single-root hierarchy benefits from clearer branch staging",
+        "atlas+dossier fits clustered overview"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 58,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 3520,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "single-root hierarchy benefits from clearer branch staging",
+        "compact+atlas fits clustered overview"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 46,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 3100,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 34,
+      "article_score": 18,
+      "interaction_score": 16,
+      "score": 2560,
+      "reasons": [
+        "single-root hierarchy benefits from clearer branch staging"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 24,
+      "article_score": 34,
+      "interaction_score": 14,
+      "score": 2500,
+      "reasons": [
+        "dossier improves dense article branches",
+        "single-root hierarchy benefits from clearer branch staging"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    }
+  ]
 }

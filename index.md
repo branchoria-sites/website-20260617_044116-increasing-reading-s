@@ -166,6 +166,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+header:
+  og_image: /assets/images/increasing_re_852ca6-overview-social.jpg
+  preview_image: /assets/images/increasing_re_852ca6-overview-social.jpg
+image: /assets/images/increasing_re_852ca6-overview-social.jpg
 site_image_description: A reader at a desk compares a marked article, a stopwatch, and handwritten summary notes beside an open book.
 ---
 
